@@ -1,0 +1,630 @@
+ID,Zip_Code,Tenant_Age,Tenant_Gender,Tenant_Race,Hispanic_Y_N,Month_s__Covered,Verified_Monthly_Income,F__in_house__hold,Amount_Paid,Date_Paid,Council_District,ObjectId
+238,40210.0,35,Female,African American,Non-Hispanic,dep/nov/dec,650,1.0,2400.0,12/20/2021,6.0,1
+172,40210.0,29,Male,African American,Non-Hispanic,deposit,0,1.0,1012.5,12/20/2021,6.0,2
+320,40203.0,30,Female,African American,Non-Hispanic,deposit,1700,3.0,800.0,12/20/2021,4.0,3
+319,40214.0,53,Female,White,Non-Hispanic,dep/nov/dec,1684,1.0,1425.0,12/20/2021,25.0,4
+167,40214.0,38,Male,White,Non-Hispanic,Dec deposit,0,1.0,1300.0,12/20/2021,21.0,5
+346,40215.0,33,Male,African American,Non-Hispanic,dep/dec/jan,2400,2.0,2200.0,12/20/2021,21.0,6
+352,40203.0,35,Female,African American,Non-Hispanic,Dec/Nov,2500,4.0,2125.0,12/20/2021,4.0,7
+353,40203.0,56,Male,African American,Non-Hispanic,dep/dec/jan,2500,1.0,2712.0,12/20/2021,6.0,8
+342,40204.0,63,Male,African American,unknown,dep/Dec/Jan,2300,2.0,2712.5,12/20/2021,8.0,9
+361,40202.0,39,Female,African American,Non-Hispanic,dep/Dec/Jan,2743,4.0,3000.0,12/20/2021,26.0,10
+168,40215.0,31,Female,White,Non-Hispanic,Deposit,0,4.0,850.0,12/20/2021,15.0,11
+46,40206.0,23,Male,African American,Non-Hispanic,Sept deposit and rent,,1.0,891.0,9/13/21 and 9/25/21,4.0,12
+262,40077.0,47,Female,African American,Non-Hispanic,dep/dec/jan,804,2.0,1727.0,12/20/2021,,13
+254,40216.0,25,Female,Unknown,Hispanic,Dec deposit,794,3.0,375.0,12/17/2021,1.0,14
+314,40258.0,43,Male,African American,Non-Hispanic,Dec deposit and Dec and Jan rent,1600,3.0,1750.0,12/17/2021,14.0,15
+42,40216.0,37,Female,White,Non-Hispanic,deposit / january,,4.0,829.0,12/17/2021,1.0,16
+494,40212.0,30,Female,African American,Non-Hispanic,deposit,18000,5.0,1100.0,12/17/2021,5.0,17
+611,40208.0,51,Female,African American,Non-Hispanic,Deposit + 2 Months Rent,41000,2.0,2680.0,6/10/2022,6.0,18
+359,40212.0,45,Male,African American,Non-Hispanic,Deposit + 2 Months Rent,2700,1.0,2325.0,5/27/2022,5.0,19
+52,40212.0,57,Female,White,Non-Hispanic,Deposit/January,,5.0,1500.0,12/17/2021,5.0,20
+508,40212.0,52,Female,White,Non-Hispanic,Deposit + 2 Months Rent,19200,1.0,2370.0,5/27/2022,5.0,21
+514,40215.0,38,Female,White,Non-Hispanic,Deposit + 2 Months Rent,20400,2.0,1115.0,5/25/2022,3.0,22
+11,40211.0,25,Female,White,Non-Hispanic,deposit / january,1583,4.0,1550.0,12/17/2021,5.0,23
+605,40216.0,34,Male,White,Non-Hispanic,Deposit + 2 Months Rent,38400,2.0,4200.0,5/18/2022,1.0,24
+166,40203.0,28,Female,African American,Non-Hispanic,Dec deposit and rent,0,5.0,100.0,12/17/2021,4.0,25
+555,40258.0,37,Female,White,Non-Hispanic,Deposit + 2 Months Rent,26500,2.0,3450.0,5/12/2022,14.0,26
+35,40208.0,49,Male,African American,Non-Hispanic,Dec and Jan rent,,1.0,1300.0,12/17/2021,6.0,27
+175,40211.0,38,Female,African American,Non-Hispanic,Deposit + 2 Months Rent,0,6.0,1400.0,5/12/2022,5.0,28
+536,40211.0,46,Female,White,Non-Hispanic,Deposit + 2 Months Rent,24000,1.0,2274.0,5/12/2022,5.0,29
+255,40217.0,31,Female,African American,Non-Hispanic,dep/Nov/Dec,794,4.0,2350.0,12/17/2021,15.0,30
+580,40214.0,46,Male,Others,Non-Hispanic,Deposit + 2 Months Rent,32000,1.0,2550.0,5/12/2022,12.0,31
+164,40212.0,61,Female,African American,Non-Hispanic,dec deposit,0,1.0,525.0,12/16/2021,5.0,32
+165,40216.0,53,Male,African American,Non-Hispanic,dec deposit,0,1.0,699.0,12/15/2021,1.0,33
+392,40212.0,67,Male,African American,Non-Hispanic,Deposit + 2 Months Rent,7884,1.0,1950.0,5/12/2022,5.0,34
+444,40212.0,54,Female,African American,Non-Hispanic,Deposit + 2 Months Rent,10764,2.0,3000.0,5/12/2022,5.0,35
+490,40211.0,36,Female,African American,Non-Hispanic,deposit,17000,5.0,1229.0,12/15/2021,1.0,36
+163,40203.0,62,Male,African American,Non-Hispanic,Dec deposit and rent,0,2.0,617.47,12/15/2021,4.0,37
+599,40272.0,27,Female,African American,Non-Hispanic,Deposit + 2 Months Rent,36000,2.0,2676.0,5/12/2022,25.0,38
+454,40211.0,31,Female,White,Non-Hispanic,Deposit + 2 Months Rent,12000,1.0,2250.0,5/12/2022,5.0,39
+160,40203.0,64,Female,African American,Non-Hispanic,Dec deposit and rent,0,1.0,164.6,12/15/2021,4.0,40
+162,40203.0,29,Female,African American,Non-Hispanic,Dec deposit and rent,0,3.0,100.0,12/15/2021,4.0,41
+430,40210.0,55,Female,African American,Non-Hispanic,Deposit + 2 Months Rent,10092,2.0,1198.0,5/12/2022,6.0,42
+591,40214.0,58,Male,African American,Non-Hispanic,Deposit + 2 Months Rent,34000,1.0,2385.0,5/12/2022,5.0,43
+219,40214.0,31,Female,African American,Non-Hispanic,dep,166,1.0,300.0,12/15/2021,21.0,44
+593,40212.0,43,Female,African American,Non-Hispanic,Deposit + 2 Months Rent,35000,2.0,2580.0,5/12/2022,5.0,45
+512,40211.0,29,Female,African American,Non-Hispanic,deposit,20000,3.0,300.0,12/15/2021,1.0,46
+542,40216.0,55,Female,African American,Non-Hispanic,Deposit + 2 Months Rent,25200,2.0,2700.0,5/12/2022,3.0,47
+157,40216.0,42,Male,African American,Non-Hispanic,Deposit and Dec rent,0,1.0,699.0,12/13/2021,1.0,48
+505,40210.0,47,Female,African American,Non-Hispanic,Deposit + 2 Months Rent,19200,1.0,2100.0,5/12/2022,4.0,49
+158,40214.0,29,Female,White,Non-Hispanic,deposit,0,4.0,1150.0,12/13/2021,25.0,50
+524,40203.0,33,Female,African American,Non-Hispanic,Deposit + 2 Months Rent,22440,6.0,1966.0,5/12/2022,5.0,51
+156,40214.0,42,Female,White,Non-Hispanic,Dep/Nov/Dec,0,3.0,775.0,12/13/2021,25.0,52
+507,40210.0,57,Female,African American,Non-Hispanic,Deposit + 2 Months Rent,19200,1.0,2550.0,5/12/2022,6.0,53
+45,40211.0,32,Female,African American,Non-Hispanic,Dec deposit and pro-rated rent,,4.0,540.0,12/13/2021,1.0,54
+522,40210.0,57,Male,African American,Non-Hispanic,Deposit + 2 Months Rent,22200,1.0,2040.0,5/12/2022,4.0,55
+308,40211.0,52,Female,African American,Non-Hispanic,dep/Sept/Oct,1400,2.0,3000.0,12/13/2021,5.0,56
+384,40214.0,29,Female,African American,Non-Hispanic,Deposit + 2 Months Rent,4200,3.0,2400.0,5/12/2022,21.0,57
+159,40211.0,66,Male,African American,Non-Hispanic,Dec deposit,0,1.0,775.0,12/13/2021,4.0,58
+433,40214.0,48,Female,White,Non-Hispanic,Deposit + 2 Months Rent,10116,1.0,1144.0,5/12/2022,21.0,59
+152,40212.0,32,Female,White,Non-Hispanic,Dec deposit and rent,0,3.0,100.0,12/13/2021,5.0,60
+474,40219.0,52,Female,African American,Non-Hispanic,Deposit + 2 Months Rent,14800,2.0,1624.0,5/12/2022,24.0,61
+155,40210.0,47,Female,African American,Non-Hispanic,Dec deposit and rent,0,4.0,143.87,12/13/2021,4.0,62
+182,40219.0,45,Female,White,Non-Hispanic,Deposit Only,0,2.0,200.0,5/12/2022,24.0,63
+150,40203.0,34,Female,White,Hispanic,Dec deposit and rent,0,5.0,288.93,12/13/2021,4.0,64
+561,40218.0,33,Female,African American,Non-Hispanic,Deposit + 2 Months Rent,28200,4.0,2288.0,5/12/2022,2.0,65
+22,40215.0,32,Female,White,Non-Hispanic,deposit / december / january,,6.0,4800.0,12/13/2021,15.0,66
+161,40203.0,55,Male,African American,Non-Hispanic,Dec deposit and rent,0,1.0,100.0,12/13/2021,4.0,67
+154,40203.0,42,Female,White,Non-Hispanic,Dec deposit and rent,0,2.0,75.47,12/13/2021,6.0,68
+624,40208.0,58,Female,White,Non-Hispanic,deposit / December,1087,1.0,1300.0,12/13/2021,6.0,69
+153,40217.0,55,Male,African American,Non-Hispanic,Dec deposit and rent,0,1.0,117.3,12/13/2021,15.0,70
+149,40206.0,33,Female,White,Non-Hispanic,December deposit,0,3.0,100.0,12/13/2021,4.0,71
+151,40206.0,24,Female,African American,Non-Hispanic,Dec deposit and rent,0,5.0,138.73,12/13/2021,9.0,72
+375,40203.0,31,Female,White,Non-Hispanic,dep/Dec/Jan,3200,3.0,3000.0,12/13/2021,4.0,73
+20,40258.0,35,Female,African American,Non-Hispanic,deposit / december ,,2.0,1130.0,12/10/2021,1.0,74
+358,40272.0,39,Female,African American,Non-Hispanic,deposit / december / january,2700,4.0,2700.0,12/10/2021,25.0,75
+51,40214.0,39,Female,White,Non-Hispanic,deposit / december,,6.0,2200.0,12/10/2021,25.0,76
+43,40211.0,39,Female,African American,Non-Hispanic,deposit / december / january,,2.0,1506.66,12/10/2021,4.0,77
+503,40258.0,27,Female,African American,Non-Hispanic,Deposit + 2 Months Rent,19200,4.0,3000.0,5/5/2022,14.0,78
+420,40258.0,41,Male,White,Non-Hispanic,Deposit + 2 Months Rent,10092,4.0,3900.0,5/5/2022,14.0,79
+412,40211.0,67,Female,African American,Non-Hispanic,Deposit + 2 Months Rent,9960,1.0,639.0,5/5/2022,5.0,80
+472,40212.0,38,Female,African American,Non-Hispanic,Deposit + 2 Months Rent,14400,4.0,2700.0,5/5/2022,5.0,81
+457,40211.0,63,Female,African American,Non-Hispanic,Deposit + 2 Months Rent,12468,1.0,2100.0,5/5/2022,1.0,82
+562,40211.0,28,Female,African American,Non-Hispanic,Deposit + 2 Months Rent,28340.52,4.0,2460.0,5/5/2022,4.0,83
+487,40210.0,34,Female,African American,Non-Hispanic,Deposit + 2 Months Rent,16800,2.0,2670.0,5/5/2022,5.0,84
+556,40203.0,32,Female,African American,Non-Hispanic,Deposit + 2 Months Rent,27000,4.0,2300.0,5/5/2022,5.0,85
+485,40215.0,27,Female,Mixed Race,Non-Hispanic,Deposit + 2 Months Rent,16344,1.0,2225.0,5/5/2022,3.0,86
+176,40214.0,53,Female,White,Non-Hispanic,Deposit Only,0,1.0,943.0,5/5/2022,21.0,87
+450,40208.0,30,Female,African American,Non-Hispanic,Deposit + 2 Months Rent,11700,1.0,3413.0,5/5/2022,6.0,88
+577,40214.0,36,Female,White,Non-Hispanic,Deposit + 2 Months Rent,31200,2.0,3027.0,5/5/2022,21.0,89
+492,40203.0,38,Female,African American,Non-Hispanic,Deposit + 2 Months Rent,17292,4.0,1784.0,5/5/2022,4.0,90
+519,40208.0,39,Male,African American,Non-Hispanic,Deposit + 2 Months Rent,21600,1.0,3700.0,5/5/2022,9.0,91
+572,40218.0,32,Female,African American,Non-Hispanic,Deposit + 2 Months Rent,30276,6.0,2559.0,5/5/2022,2.0,92
+565,40229.0,34,Female,African American,Non-Hispanic,Deposit + 2 Months Rent,28800,3.0,4800.0,5/5/2022,23.0,93
+603,40220.0,42,Female,Mixed Race,Hispanic,Deposit + 2 Months Rent,38000,3.0,2950.0,5/5/2022,10.0,94
+195,40272.0,34,Female,African American,Non-Hispanic,Deposit + 2 Months Rent,0,3.0,2894.0,4/28/2022,25.0,95
+546,40216.0,26,Female,African American,Non-Hispanic,Deposit + 2 Months Rent,25920,2.0,1902.0,4/28/2022,12.0,96
+563,40212.0,39,Female,White,Non-Hispanic,Deposit + 2 Months Rent,28800,3.0,2550.0,4/28/2022,5.0,97
+471,40211.0,67,Male,African American,Non-Hispanic,Deposit + 2 Months Rent,14400,1.0,2355.0,4/28/2022,5.0,98
+439,40216.0,64,Female,African American,Non-Hispanic,Deposit + 2 Months Rent,10332,1.0,1288.0,4/28/2022,3.0,99
+482,40212.0,53,Female,African American,Non-Hispanic,Deposit + 2 Months Rent,15840,1.0,2430.0,4/28/2022,5.0,100
+386,40258.0,27,Female,White,Non-Hispanic,Deposit + 2 Months Rent,4500,2.0,1030.0,4/7/2022,1.0,101
+588,40212.0,41,Female,African American,Non-Hispanic,Deposit + 2 Months Rent,33600,4.0,1800.0,4/7/2022,5.0,102
+408,40214.0,25,Female,African American,Non-Hispanic,Deposit Only,9600,2.0,665.0,4/7/2022,25.0,103
+211,40211.0,29,Female,African American,Non-Hispanic,Deposit Only,0,5.0,400.0,4/7/2022,1.0,104
+409,40211.0,62,Male,African American,Non-Hispanic,Deposit + 2 Months Rent,9600,1.0,2250.0,4/7/2022,5.0,105
+558,40216.0,57,Male,African American,Non-Hispanic,Deposit + 2 Months Rent,27600,1.0,2240.0,4/7/2022,15.0,106
+387,40210.0,26,Female,African American,Non-Hispanic,Deposit + 2 Months Rent,5000,2.0,2400.0,4/7/2022,6.0,107
+406,40216.0,34,Female,African American,Non-Hispanic,Deposit + 2 Months Rent,9528,1.0,1702.0,4/7/2022,3.0,108
+606,40210.0,45,Male,White,Non-Hispanic,Deposit + 2 Months Rent,38400,1.0,1800.0,4/7/2022,6.0,109
+451,40210.0,56,Male,African American,Non-Hispanic,Deposit + 2 Months Rent,11712,1.0,1950.0,4/7/2022,4.0,110
+449,40203.0,58,Male,African American,Non-Hispanic,Deposit + 2 Months Rent,11414,1.0,734.0,4/7/2022,4.0,111
+486,40210.0,37,Female,African American,Non-Hispanic,Deposit + 2 Months Rent,16728,3.0,1669.0,4/7/2022,4.0,112
+501,40214.0,42,Female,African American,Non-Hispanic,Deposit + 2 Months Rent,18900,2.0,2090.0,4/7/2022,25.0,113
+188,40214.0,32,Female,White,Non-Hispanic,Deposit + 2 Months Rent,0,1.0,832.0,4/7/2022,21.0,114
+381,40203.0,59,Female,African American,Non-Hispanic,Deposit + 2 Months Rent,3500,4.0,4400.0,4/7/2022,6.0,115
+612,40204.0,45,Male,African American,Non-Hispanic,Deposit + 2 Months Rent,42000,1.0,2550.0,4/7/2022,8.0,116
+435,40219.0,61,Male,African American,Non-Hispanic,Deposit + 2 Months Rent,10320,1.0,896.0,4/7/2022,2.0,117
+620,40212.0,39,Female,African American,Non-Hispanic,Deposit + 2 Months Rent,49359,3.0,3600.0,3/30/2022,5.0,118
+197,40214.0,42,Male,African American,Non-Hispanic,Deposit + 2 Months Rent,0,1.0,1036.0,3/30/2022,25.0,119
+497,40212.0,52,Female,African American,Non-Hispanic,Deposit + 2 Months Rent,18000,1.0,1800.0,3/30/2022,5.0,120
+436,40216.0,59,Male,White,Non-Hispanic,Deposit + 2 Months Rent,10332,1.0,1396.0,3/30/2022,3.0,121
+540,40210.0,31,Female,African American,Non-Hispanic,Deposit + 2 Months Rent,25000,1.0,2670.0,3/30/2022,5.0,122
+418,40210.0,42,Female,White,Non-Hispanic,Deposit + 2 Months Rent,10080,4.0,2018.0,3/30/2022,1.0,123
+285,40215.0,31,Female,African American,Non-Hispanic,Deposit + 2 Months Rent,1000,3.0,1384.0,3/30/2022,3.0,124
+601,40212.0,34,Female,African American,Non-Hispanic,Deposit + 2 Months Rent,37000,4.0,2940.0,3/30/2022,5.0,125
+354,40214.0,28,Female,African American,Non-Hispanic,Deposit Only,2500,5.0,500.0,3/30/2022,25.0,126
+190,40212.0,39,Female,African American,Non-Hispanic,Deposit + 2 Months Rent,0,2.0,1370.0,3/30/2022,5.0,127
+191,40203.0,30,Female,Others,Non-Hispanic,Deposit + 2 Months Rent,0,1.0,1051.1,3/30/2022,4.0,128
+477,40203.0,29,Male,African American,Non-Hispanic,Deposit + 2 Months Rent,15000,1.0,1732.0,3/30/2022,4.0,129
+473,40204.0,42,Male,Others,Hispanic,Deposit + 2 Months Rent,14628,1.0,2948.0,3/30/2022,8.0,130
+179,40207.0,31,Female,White,Non-Hispanic,Deposit Only,0,1.0,925.0,3/30/2022,9.0,131
+208,40216.0,27,Female,African American,Non-Hispanic,Deposit + 2 Months Rent,0,3.0,961.0,3/24/2022,1.0,132
+437,40211.0,67,Female,African American,Non-Hispanic,Deposit + 2 Months Rent,10332,1.0,636.0,3/24/2022,5.0,133
+465,40212.0,54,Female,African American,Non-Hispanic,Deposit + 2 Months Rent,13692,3.0,1502.0,3/24/2022,5.0,134
+432,40211.0,62,Female,African American,Non-Hispanic,Deposit + 2 Months Rent,10092,2.0,1755.0,3/24/2022,5.0,135
+568,40211.0,32,Female,White,Non-Hispanic,Deposit + 2 Months Rent,29000,2.0,3000.0,3/24/2022,1.0,136
+608,40216.0,55,Female,African American,Non-Hispanic,Deposit + 2 Months Rent,39000,1.0,1920.0,3/24/2022,3.0,137
+592,40212.0,52,Female,African American,Non-Hispanic,Deposit + 2 Months Rent,35000,1.0,3600.0,3/24/2022,5.0,138
+537,40212.0,31,Female,White,Non-Hispanic,Deposit + 2 Months Rent,24000,3.0,2350.0,3/24/2022,5.0,139
+423,40212.0,63,Female,White,Non-Hispanic,Deposit + 2 Months Rent,10092,1.0,2400.0,3/24/2022,5.0,140
+202,40210.0,41,Male,African American,Non-Hispanic,Deposit Only,0,1.0,1596.0,3/24/2022,6.0,141
+469,40203.0,53,Female,White,Non-Hispanic,Deposit + 2 Months Rent,14280,1.0,1700.0,3/24/2022,5.0,142
+464,40214.0,64,Female,African American,Non-Hispanic,Deposit + 2 Months Rent,13512,1.0,1548.0,3/24/2022,21.0,143
+407,40203.0,51,Female,White,Non-Hispanic,Deposit + 2 Months Rent,9552,1.0,395.33,3/24/2022,6.0,144
+478,40214.0,43,Female,White,Non-Hispanic,Deposit + 2 Months Rent,15000,2.0,2162.0,3/24/2022,21.0,145
+544,40214.0,28,Male,African American,Non-Hispanic,Deposit + 2 Months Rent,25272,1.0,2394.0,3/24/2022,21.0,146
+185,40203.0,55,Female,African American,Non-Hispanic,Deposit Only,0,1.0,100.0,3/24/2022,4.0,147
+610,40202.0,43,Female,African American,Non-Hispanic,Deposit + 2 Months Rent,40931.64,1.0,1861.78,3/24/2022,4.0,148
+422,40219.0,59,Female,African American,Non-Hispanic,Deposit + 2 Months Rent,10092,1.0,1222.0,3/24/2022,21.0,149
+518,40223.0,37,Female,African American,Non-Hispanic,Deposit + 2 Months Rent,21120,3.0,4844.0,3/24/2022,18.0,150
+525,40215.0,42,Female,African American,Non-Hispanic,Deposit + 2 Months Rent,22636,1.0,1630.0,4/28/2022,3.0,151
+495,40215.0,33,Female,African American,Non-Hispanic,Deposit + 2 Months Rent,18000,4.0,2180.0,4/28/2022,3.0,152
+570,40211.0,35,Male,African American,Non-Hispanic,Deposit + 2 Months Rent,30000,2.0,2565.0,4/28/2022,5.0,153
+549,40212.0,62,Male,African American,Non-Hispanic,Deposit + 2 Months Rent,26400,1.0,2625.0,4/28/2022,5.0,154
+520,40211.0,53,Male,African American,Non-Hispanic,Deposit + 2 Months Rent,21600,6.0,2580.0,4/28/2022,4.0,155
+198,40215.0,32,Female,African American,Non-Hispanic,Deposit Only,0,4.0,1200.0,4/28/2022,15.0,156
+509,40210.0,52,Male,African American,Non-Hispanic,Deposit + 2 Months Rent,19200,1.0,2625.0,4/28/2022,6.0,157
+538,40212.0,51,Male,African American,Non-Hispanic,Deposit + 2 Months Rent,24000,1.0,3600.0,4/28/2022,5.0,158
+416,40210.0,40,Female,African American,Non-Hispanic,Deposit + 2 Months Rent,10042,1.0,2250.0,4/28/2022,6.0,159
+528,40203.0,37,Female,African American,Non-Hispanic,Deposit + 2 Months Rent,23000,1.0,1250.0,4/28/2022,5.0,160
+391,40210.0,33,Female,African American,Non-Hispanic,Deposit + 2 Months Rent,7840,4.0,1441.0,4/28/2022,4.0,161
+398,40218.0,49,Female,African American,Non-Hispanic,Deposit + 2 Months Rent,9108,1.0,2400.0,4/28/2022,6.0,162
+461,40214.0,32,Female,African American,Non-Hispanic,Deposit + 2 Months Rent,13200,3.0,2550.0,4/28/2022,21.0,163
+613,40219.0,27,Female,African American,Non-Hispanic,Deposit + 2 Months Rent,42996,1.0,3600.0,4/28/2022,24.0,164
+571,40218.0,21,Female,African American,Non-Hispanic,Deposit + 2 Months Rent,30000,1.0,1974.0,4/28/2022,10.0,165
+427,40220.0,27,Female,African American,Non-Hispanic,Deposit + 2 Months Rent,10092,2.0,688.0,4/28/2022,26.0,166
+559,40299.0,29,Female,African American,Non-Hispanic,Deposit + 2 Months Rent,27600,4.0,4315.97,4/28/2022,11.0,167
+205,0.0,59,Female,African American,Non-Hispanic,Deposit Only,0,1.0,500.0,4/28/2022,14.0,168
+458,40258.0,47,Female,African American,Non-Hispanic,Deposit + 2 Months Rent,12588,1.0,1256.0,4/21/2022,14.0,169
+206,40216.0,43,Female,African American,Non-Hispanic,Deposit Only,0,1.0,650.0,4/21/2022,12.0,170
+545,40211.0,42,Female,African American,Non-Hispanic,Deposit + 2 Months Rent,25488,3.0,2508.0,4/21/2022,5.0,171
+506,40206.0,49,Male,African American,Non-Hispanic,Deposit + 2 Months Rent,19200,1.0,1950.0,4/21/2022,12.0,172
+405,40211.0,48,Female,African American,Non-Hispanic,Deposit + 2 Months Rent,9528,1.0,686.0,4/21/2022,5.0,173
+417,40211.0,34,Female,African American,Non-Hispanic,Deposit + 2 Months Rent,10080,2.0,550.0,4/21/2022,1.0,174
+178,40211.0,31,Female,African American,Non-Hispanic,Deposit Only,0,1.0,600.0,4/21/2022,4.0,175
+504,40211.0,38,Female,African American,Non-Hispanic,Deposit + 2 Months Rent,19200,4.0,1664.0,4/21/2022,5.0,176
+602,40210.0,40,Female,African American,Non-Hispanic,Deposit + 2 Months Rent,37632,1.0,2100.0,4/21/2022,4.0,177
+447,40210.0,73,Male,African American,Non-Hispanic,Deposit + 2 Months Rent,11124,1.0,1800.0,4/21/2022,4.0,178
+180,40216.0,31,Female,African American,Non-Hispanic,Deposit Only,0,4.0,905.0,4/21/2022,4.0,179
+390,40214.0,30,Female,African American,Non-Hispanic,Deposit + 2 Months Rent,5892,4.0,1482.0,4/21/2022,25.0,180
+411,40214.0,38,Female,White,Non-Hispanic,Deposit + 2 Months Rent,9864,1.0,1046.0,4/21/2022,21.0,181
+564,40118.0,39,Female,White,Non-Hispanic,Deposit + 2 Months Rent,28800,2.0,2250.0,4/21/2022,13.0,182
+434,40220.0,36,Male,African American,Non-Hispanic,Deposit + 2 Months Rent,10320,1.0,1024.0,4/21/2022,26.0,183
+551,40241.0,53,Female,African American,Non-Hispanic,Deposit + 2 Months Rent,26400,1.0,3400.0,4/21/2022,17.0,184
+531,40212.0,43,Female,African American,Non-Hispanic,Deposit + 2 Months Rent,23520,1.0,1900.0,4/21/2022,5.0,185
+609,40212.0,38,Female,Others,Hispanic,Deposit + 2 Months Rent,40000,3.0,4350.0,4/14/2022,5.0,186
+183,40211.0,35,Female,African American,Non-Hispanic,Deposit + 2 Months Rent,0,1.0,1086.0,4/14/2022,1.0,187
+200,40211.0,30,Female,African American,Non-Hispanic,Deposit Only,0,4.0,900.0,4/14/2022,1.0,188
+548,40211.0,32,Male,African American,Non-Hispanic,Deposit + 2 Months Rent,26400,2.0,2850.0,4/14/2022,4.0,189
+421,40215.0,42,Male,African American,Non-Hispanic,Deposit + 2 Months Rent,10092,2.0,1780.0,4/14/2022,3.0,190
+587,40212.0,35,Male,African American,Non-Hispanic,Deposit + 2 Months Rent,33600,3.0,3400.0,4/14/2022,1.0,191
+523,40211.0,35,Male,White,Non-Hispanic,Deposit + 2 Months Rent,22428,4.0,3300.0,4/14/2022,4.0,192
+448,40212.0,33,Male,African American,Non-Hispanic,Deposit + 2 Months Rent,11148,2.0,726.0,4/14/2022,5.0,193
+453,40210.0,73,Male,African American,Non-Hispanic,Deposit + 2 Months Rent,11976,1.0,2250.0,4/14/2022,6.0,194
+481,40211.0,33,Female,White,Non-Hispanic,Deposit + 2 Months Rent,15600,1.0,2820.0,4/14/2022,4.0,195
+431,40210.0,58,Male,African American,Non-Hispanic,Deposit + 2 Months Rent,10092,1.0,1534.0,4/14/2022,4.0,196
+496,40212.0,31,Male,African American,Non-Hispanic,Deposit + 2 Months Rent,18000,1.0,2250.0,4/14/2022,5.0,197
+470,40212.0,51,Female,African American,Non-Hispanic,Deposit + 2 Months Rent,14400,4.0,1114.0,4/14/2022,5.0,198
+397,40228.0,54,Female,African American,Non-Hispanic,Deposit + 2 Months Rent,9072,1.0,642.0,4/14/2022,2.0,199
+395,40299.0,43,Female,White,Non-Hispanic,Deposit + 2 Months Rent,8300,3.0,696.0,4/14/2022,20.0,200
+389,40211.0,39,Female,African American,Non-Hispanic,Deposit + 2 Months Rent,5388,1.0,2250.0,2/2/2022,1.0,201
+596,40219.0,28,Female,African American,Non-Hispanic,Deposit + 2 Months Rent,36000,2.0,2850.0,3/18/2022,2.0,202
+516,40258.0,64,Male,White,Non-Hispanic,Deposit + 2 Months Rent,20544,2.0,2435.0,3/16/2022,14.0,203
+479,40212.0,64,Female,African American,Non-Hispanic,Deposit + 2 Months Rent,15192,1.0,2065.0,2/2/2022,5.0,204
+460,40212.0,31,Female,African American,Non-Hispanic,Deposit + 2 Months Rent,13020,1.0,2175.0,3/16/2022,5.0,205
+619,40203.0,29,Female,African American,Non-Hispanic,Deposit + 2 Months Rent,48592,4.0,3285.0,2/2/2022,5.0,206
+438,40214.0,39,Male,African American,Non-Hispanic,Deposit + 2 Months Rent,10332,1.0,800.0,3/16/2022,25.0,207
+196,40210.0,33,Female,African American,Non-Hispanic,Deposit + 1 Month Rent,0,2.0,1550.0,2/2/2022,4.0,208
+456,40215.0,67,Female,White,Non-Hispanic,Deposit + 2 Months Rent,12108,2.0,2250.0,3/16/2022,15.0,209
+585,40229.0,28,Female,Others,Hispanic,Deposit + 1 Month Rent,33600,2.0,2600.0,2/2/2022,24.0,210
+400,40210.0,34,Female,African American,Non-Hispanic,Deposit Only,9396,3.0,1100.0,3/16/2022,6.0,211
+480,40299.0,40,Male,African American,Non-Hispanic,Deposit + 2 Months Rent,15600,2.0,1514.0,2/2/2022,20.0,212
+410,40215.0,65,Male,African American,Non-Hispanic,Deposit + 2 Months Rent,9756,2.0,790.0,3/16/2022,15.0,213
+589,40258.0,30,Female,African American,Non-Hispanic,Deposit + 2 Months Rent,33621,2.0,2770.0,1/27/2022,12.0,214
+557,40208.0,40,Male,African American,Non-Hispanic,Deposit + 2 Months Rent,27000,1.0,2375.0,3/16/2022,3.0,215
+569,40216.0,56,Female,African American,Non-Hispanic,Deposit + 2 Months Rent,30000,3.0,3600.0,1/27/2022,3.0,216
+443,40214.0,31,Female,African American,Non-Hispanic,Deposit + 2 Months Rent,10560,4.0,2092.0,3/16/2022,21.0,217
+579,40203.0,33,Male,White,Non-Hispanic,Deposit + 2 Months Rent,31688,2.0,1859.67,1/27/2022,6.0,218
+550,40214.0,43,Female,African American,Non-Hispanic,Deposit + 2 Months Rent,26400,1.0,3600.0,3/16/2022,21.0,219
+594,40217.0,34,Male,African American,Non-Hispanic,Deposit + 2 Months Rent,35000,1.0,2250.0,1/27/2022,15.0,220
+207,40203.0,44,Female,White,Non-Hispanic,Deposit Only,0,1.0,500.0,3/16/2022,4.0,221
+210,40207.0,31,Female,African American,Non-Hispanic,Deposit Only,0,1.0,500.0,1/27/2022,9.0,222
+535,40203.0,29,Female,African American,Non-Hispanic,Deposit + 2 Months Rent,24000,1.0,1900.0,3/16/2022,4.0,223
+326,40210.0,32,Male,African American,Non-Hispanic,Dep/Dec,1833,2.0,1600.0,12/22/2021,4.0,224
+377,40202.0,44,Female,African American,Unknown,dep/Dec/Jan,3200,2.0,1578.8,12/22/2021,4.0,225
+247,40272.0,52,Female,White,Non-Hispanic,dep/Dec/Jan,793,1.0,1950.0,12/21/2021,14.0,226
+347,40216.0,24,Female,White,Non-Hispanic,dep/dec/jan,2400,1.0,2400.0,12/21/2021,3.0,227
+258,40211.0,48,Male,African American,Non-Hispanic,dep/dec/jan,794,1.0,2700.0,12/21/2021,5.0,228
+340,40210.0,33,Female,African American,Unknown,Dep/Dec/Jan,2250,2.0,1750.0,12/21/2021,1.0,229
+283,40216.0,22,Female,White,Non-Hispanic,dep/dec,1000,1.0,1450.0,12/21/2021,3.0,230
+339,40216.0,30,Female,Mixed Race,Non-Hispanic,dep/dec/jan,2240,1.0,2050.0,12/21/2021,3.0,231
+264,40215.0,48,Female,African American,Non-Hispanic,Dep/Dec/Jan,813,3.0,675.32,12/21/2021,3.0,232
+173,40210.0,37,Female,African American,Non-Hispanic,dep/Dec/Jan,0,2.0,2150.0,12/21/2021,1.0,233
+246,40211.0,67,Male,African American,Non-Hispanic,dep/dec/jan,784,1.0,1950.0,12/21/2021,5.0,234
+243,40211.0,72,Female,African American,Non-Hispanic,Deposit/Dec,739,2.0,1150.0,12/21/2021,4.0,235
+301,40215.0,55,Male,White,Non-Hispanic,Dep/Dec/Jan,1250,1.0,900.0,12/21/2021,15.0,236
+242,40215.0,53,Female,African American,Non-Hispanic,dep/Dec/Jan,717,1.0,1127.0,12/21/2021,3.0,237
+334,40210.0,55,Female,African American,Non-Hispanic,Dep/Dec/Jan,2000,1.0,1314.0,12/21/2021,4.0,238
+343,40215.0,27,Male,African American,Non-Hispanic,Dec deposit and Dec and Jan rent,2300,3.0,2475.0,12/21/2021,21.0,239
+288,40208.0,60,Female,White,Non-Hispanic,Deposit,1056,5.0,1100.0,12/21/2021,3.0,240
+337,40214.0,19,Female,Mixed Race,Non-Hispanic,dep/dec/jan,2128,1.0,2379.55,12/21/2021,21.0,241
+315,40203.0,21,Male,African American,Unknown,dep/dec/jan,1600,1.0,1535.0,12/21/2021,6.0,242
+232,40203.0,63,Female,White,Non-Hispanic,dep/dec/jan,528,1.0,356.0,12/21/2021,6.0,243
+376,40202.0,70,Female,African American,Unknown,dep/Dec/Jan,3200,1.0,2307.8,12/21/2021,4.0,244
+259,40208.0,53,Female,African American,Non-Hispanic,Deposit,794,1.0,1498.0,12/21/2021,6.0,245
+284,40206.0,48,Female,African American,Non-Hispanic,Dep/Dec/Jan,1000,2.0,1059.27,12/21/2021,4.0,246
+257,40204.0,39,Male,African American,Non-Hispanic,dep/dec/jan,794,2.0,2975.0,12/21/2021,8.0,247
+241,40220.0,41,Female,Others,Unknown,Deposit,689,4.0,300.0,12/21/2021,26.0,248
+333,40241.0,57,Male,White,Non-Hispanic,Nov/Dec,2000,2.0,2818.0,12/21/2021,17.0,249
+324,40291.0,22,Female,African American,Non-Hispanic,dep/Dec/Jan,1800,1.0,3697.0,12/21/2021,22.0,250
+338,,47,Female,African American,Non-Hispanic,Dep/Dec,2175,1.0,2049.5,12/21/2021,,251
+44,40258.0,21,Female,African American,Non-Hispanic,deposit/Dec,,2.0,3600.0,12/20/2021,1.0,252
+171,40272.0,24,Female,African American,Non-Hispanic,Dep/Jan/Feb,0,4.0,1409.0,12/20/2021,25.0,253
+170,40216.0,25,Male,White,Non-Hispanic,deposit,0,1.0,937.5,12/20/2021,1.0,254
+39,40216.0,34,Female,African American,Non-Hispanic,Dec deposit and portion of Dec rent,,4.0,1732.5,12/20/2021,12.0,255
+378,40216.0,49,Female,White,Non-Hispanic,dep/november,3250,2.0,1900.0,12/20/2021,1.0,256
+256,40216.0,29,Female,African American,Non-Hispanic,Deposit/Dec,794,3.0,2204.0,12/20/2021,12.0,257
+169,40212.0,40,Female,African American,Non-Hispanic,Deposit,0,1.0,655.0,12/20/2021,5.0,258
+273,40216.0,32,Female,African American,Non-Hispanic,dep/Dec,914,3.0,1984.0,12/20/2021,3.0,259
+309,40212.0,29,Female,African American,Non-Hispanic,Dep/Dec/Jan,1400,3.0,1269.0,12/20/2021,5.0,260
+360,40212.0,46,Female,African American,Non-Hispanic,dep/dec/jan,2720,1.0,2340.0,12/20/2021,5.0,261
+368,40218.0,27,Female,African American,Unknown,Dep/Nov/Dec,3000,3.0,2400.0,12/20/2021,1.0,262
+148,40215.0,47,Male,African American,Non-Hispanic,Dep and Dec rent,0,1.0,1074.07,12/10/2021,15.0,263
+553,40218.0,21,Male,African American,Non-Hispanic,Deposit + 2 Months Rent,26400,2.0,2880.0,3/3/2022,2.0,264
+194,40203.0,44,Female,White,Non-Hispanic,Deposit + 2 Months Rent,0,1.0,742.0,3/16/2022,4.0,265
+26,40214.0,48,Female,African American,Non-Hispanic,Dec deposit,,1.0,852.0,12/10/2021,21.0,266
+425,40228.0,51,Female,Mixed Race,Non-Hispanic,Deposit Only,10092,1.0,350.0,3/3/2022,2.0,267
+440,40218.0,32,Male,African American,Non-Hispanic,Deposit + 2 Months Rent,10356,1.0,1950.0,3/16/2022,10.0,268
+628,40218.0,36,Female,African American,Non-Hispanic,deposit / december / january,2700,3.0,2130.0,12/10/2021,10.0,269
+629,40210.0,28,Female,African American,Non-Hispanic,deposit / december / january,739,3.0,2356.0,12/10/2021 0:00,4.0,270
+147,40211.0,20,Female,Mixed Race,Non-Hispanic,deposit,0,2.0,800.0,12/8/2021,5.0,271
+23,40211.0,32,Female,African American,Non-Hispanic,deposit and dec rent,,4.0,2469.0,12/8/2021,5.0,272
+627,40211.0,55,Male,Mixed Race,Non-Hispanic,deposit / december / january,1600,1.0,2625.0,12/8/2021,4.0,273
+625,40211.0,54,Female,Mixed Race,Non-Hispanic,deposit / december / january,1300,1.0,2550.0,12/8/2021,5.0,274
+626,40211.0,59,Male,Mixed Race,Non-Hispanic,deposit / december / january,1500,1.0,2625.0,12/8/2021,5.0,275
+50,40210.0,39,Female,African American,Non-Hispanic,dep / nov,,3.0,1100.0,12/8/2021,6.0,276
+483,40214.0,35,Female,African American,Non-Hispanic,deposit,16000,3.0,400.0,12/8/2021,25.0,277
+263,40215.0,52,Female,White,Non-Hispanic,Deposit,811,2.0,1125.0,12/8/2021,21.0,278
+493,40229.0,49,Female,African American,Non-Hispanic,deposit / december,18000,1.0,1350.0,12/8/2021,24.0,279
+623,40299.0,40,Male,African American,Non-Hispanic,dec deposit and rent,,1.0,1361.48,12/8/2021,11.0,280
+253,40211.0,38,Female,African American,Non-Hispanic,deposit,794,4.0,1000.0,12/7/2021,5.0,281
+372,40215.0,46,Female,White,Non-Hispanic,deposit / december / january,3150,5.0,2325.0,12/7/2021,15.0,282
+145,40215.0,23,Female,African American,Non-Hispanic,deposit and Dec rent,0,1.0,896.0,12/7/2021,3.0,283
+146,40205.0,30,Female,White,Non-Hispanic,deposit + december and january rent,0,1.0,1900.0,12/7/2021,8.0,284
+143,40211.0,29,Female,African American,Non-Hispanic,Dec deposit,0,3.0,300.0,12/6/2021,5.0,285
+305,40216.0,57,Female,White,Non-Hispanic,dep / dec / jan,1300,1.0,2640.0,12/6/2021,3.0,286
+142,40211.0,59,Female,White,Hispanic,deposit and dec/january rent,0,2.0,1001.0,12/6/2021,5.0,287
+38,40212.0,52,Female,White,Non-Hispanic,Dec deposit,,1.0,936.0,12/6/2021,5.0,288
+48,40215.0,27,Female,African American,Non-Hispanic,Dec deposit and rent,,2.0,856.86,12/6/2021,3.0,289
+27,40210.0,30,Female,African American,Non-Hispanic,deposit / dec,,3.0,155.76,12/6/2021,6.0,290
+267,40214.0,79,Female,African American,Unknown,deposit,829.2,1.0,760.0,12/6/2021,21.0,291
+47,40203.0,39,Female,African American,Non-Hispanic,december,,1.0,809.43,12/6/2021,6.0,292
+366,40213.0,35,Female,White,Non-Hispanic,Deposit / Dec / Jan,2979,1.0,1769.0,12/6/2021,21.0,293
+327,40206.0,73,Male,White,Non-Hispanic,deposit/Nov,1885,2.0,1400.0,12/6/2021,4.0,294
+388,40206.0,31,Male,African American,Non-Hispanic,dep / dec / jan,5300,4.0,3198.0,12/6/2021,4.0,295
+369,40219.0,43,Female,African American,Non-Hispanic,dep / oct / nov,3040,1.0,2053.37,12/6/2021,24.0,296
+144,40218.0,38,Male,White,Non-Hispanic,Dec deposit and rent,0,1.0,90.0,12/6/2021,10.0,297
+15,40258.0,44,Female,White,Non-Hispanic,dep / dec,1917,2.0,1075.0,12/1/2021,14.0,298
+25,40211.0,28,Female,African American,Non-Hispanic,Dec deposit,,3.0,1100.0,12/1/2021,1.0,299
+533,40211.0,44,Male,African American,Non-Hispanic,deposit,24000,1.0,300.0,12/1/2021,5.0,300
+141,40211.0,22,Female,African American,Non-Hispanic,Dec deposit,0,3.0,300.0,12/1/2021,4.0,301
+56,40215.0,40,Female,White,Unknown,Nov and Dec rent,,1.0,1500.0,12/1/2021,3.0,302
+282,40210.0,38,Female,African American,Non-Hispanic,dep / nov / dec,1000,4.0,1000.0,12/1/2021,6.0,303
+19,40210.0,32,Female,African American,Non-Hispanic,Decdeposit and rent,,1.0,117.0,12/1/2021,6.0,304
+37,40204.0,64,Male,White,Non-Hispanic,Dec deposit and rent,,1.0,1675.0,12/1/2021,8.0,305
+138,40210.0,27,Female,White,Non-Hispanic,Dec deposit,0,2.0,100.0,11/30/2021,6.0,306
+139,40210.0,32,Female,White,Non-Hispanic,Dec deposit,0,5.0,100.0,11/30/2021,6.0,307
+134,40203.0,28,Female,African American,Non-Hispanic,deposit / december,0,4.0,104.0,11/30/2021,6.0,308
+36,40204.0,19,Female,White,Non-Hispanic,Dec deposit and rent,,1.0,880.0,11/30/2021,6.0,309
+136,40218.0,73,Female,African American,Non-Hispanic,Deposit and Nov/Dec rent,0,1.0,284.33,11/30/2021,10.0,310
+49,40219.0,31,Female,African American,Non-Hispanic,deposit / prorate november,,3.0,1002.0,11/30/2021,24.0,311
+137,40207.0,33,Female,White,Non-Hispanic,Dec deposit,0,1.0,500.0,11/30/2021,9.0,312
+350,40299.0,29,Female,African American,Non-Hispanic,Deposit/Nov/Dec,2500,1.0,2008.0,11/30/2021,20.0,313
+370,40216.0,30,Female,African American,Non-Hispanic,"Deposit, Oct/Nov",3041,2.0,2700.0,11/29/2021,1.0,314
+351,40258.0,29,Female,African American,Non-Hispanic,Deposit,2500,4.0,930.0,11/29/2021,12.0,315
+252,40215.0,49,Female,African American,Non-Hispanic,Deposit/Oct/Nov,794,1.0,676.0,11/29/2021,3.0,316
+574,40220.0,20,Female,African American,Non-Hispanic,Deposit + 2 Months Rent,31000,2.0,3705.0,2/28/2022,11.0,317
+466,40211.0,66,Female,African American,Non-Hispanic,Deposit + 2 Months Rent,13800,1.0,1041.0,2/25/2022,5.0,318
+396,40219.0,63,Male,Others,Hispanic,Deposit + 2 Months Rent,8400,1.0,541.94,3/16/2022,21.0,319
+567,40258.0,59,Male,African American,Non-Hispanic,Deposit + 2 Months Rent,28800,1.0,1702.0,2/24/2022,14.0,320
+576,40212.0,49,Male,African American,Non-Hispanic,Deposit + 2 Months Rent,31200,4.0,2837.0,2/24/2022,5.0,321
+583,40207.0,40,Female,African American,Non-Hispanic,Deposit + 2 Months Rent,33540,1.0,2748.65,3/16/2022,9.0,322
+192,40211.0,38,Female,African American,Non-Hispanic,Deposit + 2 Months Rent,0,3.0,1580.0,2/24/2022,5.0,323
+614,40253.0,46,Female,African American,Non-Hispanic,Deposit + 2 Months Rent,43000,4.0,4000.0,3/10/2022,25.0,324
+204,40258.0,44,Female,White,Non-Hispanic,Deposit Only,0,4.0,1200.0,2/24/2022,12.0,325
+383,40216.0,45,Female,African American,Non-Hispanic,Deposit + 2 Months Rent,3840,5.0,6300.0,3/10/2022,1.0,326
+184,40211.0,35,Male,African American,Non-Hispanic,Deposit Only,0,1.0,700.0,2/24/2022,4.0,327
+468,40216.0,42,Male,African American,Non-Hispanic,Deposit + 2 Months Rent,14200,1.0,1578.34,3/10/2022,1.0,328
+415,40211.0,65,Male,African American,Non-Hispanic,Deposit + 2 Months Rent,10032,1.0,723.0,2/24/2022,5.0,329
+446,40216.0,50,Female,African American,Non-Hispanic,Deposit + 2 Months Rent,11000,1.0,950.0,3/10/2022,3.0,330
+201,40214.0,28,Female,African American,Non-Hispanic,Deposit Only,0,2.0,400.0,2/24/2022,25.0,331
+521,40216.0,31,Female,African American,Non-Hispanic,Deposit + 2 Months Rent,21650,2.0,1776.0,3/10/2022,12.0,332
+530,40212.0,57,Female,White,Non-Hispanic,Deposit + 2 Months Rent,23376,1.0,2097.0,2/24/2022,5.0,333
+424,40211.0,33,Female,White,Non-Hispanic,Deposit + 2 Months Rent,10092,3.0,1804.0,3/10/2022,1.0,334
+181,40203.0,38,Female,Others,Non-Hispanic,Deposit Only,0,2.0,1500.0,2/24/2022,4.0,335
+475,40211.0,58,Male,African American,Non-Hispanic,Deposit + 2 Months Rent,14820,1.0,2250.0,3/10/2022,5.0,336
+488,40203.0,22,Transgender,African American,Non-Hispanic,Deposit + 2 Months Rent,16800,1.0,1989.0,2/24/2022,6.0,337
+554,40214.0,42,Female,African American,Non-Hispanic,Deposit + 2 Months Rent,26424,2.0,2065.0,3/10/2022,12.0,338
+399,40204.0,65,Female,African American,Non-Hispanic,Deposit + 2 Months Rent,9371,1.0,1247.0,2/24/2022,4.0,339
+618,40211.0,31,Male,African American,Non-Hispanic,Deposit + 2 Months Rent,44100,3.0,3600.0,3/10/2022,1.0,340
+441,40204.0,48,Male,African American,Non-Hispanic,Deposit + 2 Months Rent,10368,1.0,1075.0,2/24/2022,6.0,341
+597,40210.0,66,Male,African American,Non-Hispanic,Deposit + 2 Months Rent,36000,2.0,3400.0,3/10/2022,3.0,342
+581,40219.0,28,Female,African American,Non-Hispanic,Deposit + 2 Months Rent,32640,2.0,2302.0,2/24/2022,24.0,343
+403,40208.0,43,Male,African American,Non-Hispanic,Deposit + 2 Months Rent,9528,1.0,1034.0,3/10/2022,6.0,344
+429,40203.0,58,Male,African American,Non-Hispanic,Deposit + 2 Months Rent,10092,1.0,726.0,3/10/2022,4.0,345
+617,40229.0,27,Female,African American,Non-Hispanic,Deposit + 2 Months Rent,44000,3.0,5100.0,2/24/2022,24.0,346
+463,40214.0,25,Male,Mixed Race,Non-Hispanic,Deposit + 2 Months Rent,13478,1.0,722.0,3/10/2022,21.0,347
+348,40228.0,38,Male,African American,Non-Hispanic,Deposit + 2 Months Rent,2400,1.0,4790.0,2/24/2022,23.0,348
+510,40203.0,37,Female,White,Non-Hispanic,Deposit + 2 Months Rent,19734,1.0,1722.0,3/10/2022,4.0,349
+404,40203.0,51,Female,White,Non-Hispanic,Deposit + 2 Months Rent,9528,1.0,1062.0,2/24/2022,19.0,350
+209,40204.0,37,Male,White,Non-Hispanic,Deposit Only,0,1.0,798.0,3/10/2022,8.0,351
+604,40219.0,48,Male,African American,Non-Hispanic,Deposit + 2 Months Rent,38000,3.0,4500.0,2/18/2022,2.0,352
+566,40228.0,43,Female,African American,Non-Hispanic,Deposit + 2 Months Rent,28800,2.0,3075.0,3/10/2022,23.0,353
+590,40216.0,37,Female,African American,Non-Hispanic,Deposit + 2 Months Rent,34000,2.0,2250.0,3/3/2022,1.0,354
+586,40258.0,42,Male,African American,Non-Hispanic,Deposit + 2 Months Rent,33600,1.0,2385.0,3/3/2022,14.0,355
+498,40214.0,28,Female,African American,Non-Hispanic,Deposit + 2 Months Rent,18000,2.0,2371.0,3/3/2022,12.0,356
+199,40211.0,43,Female,African American,Non-Hispanic,Deposit Only,0,2.0,900.0,3/3/2022,1.0,357
+419,40212.0,62,Male,White,Non-Hispanic,Deposit + 2 Months Rent,10080,1.0,1650.0,3/3/2022,5.0,358
+539,40215.0,45,Female,African American,Non-Hispanic,Deposit + 2 Months Rent,24207.95,2.0,1199.0,3/3/2022,3.0,359
+491,40212.0,34,Female,Mixed Race,Non-Hispanic,Deposit + 2 Months Rent,17220,3.0,1817.43,3/3/2022,5.0,360
+426,40210.0,31,Female,African American,Non-Hispanic,Deposit + 2 Months Rent,10092,4.0,1582.0,3/3/2022,4.0,361
+467,40215.0,59,Female,White,Non-Hispanic,Deposit + 2 Months Rent,14100,1.0,1800.0,3/3/2022,15.0,362
+500,40215.0,34,Female,African American,Non-Hispanic,Deposit + 2 Months Rent,18828,2.0,1139.0,3/3/2022,3.0,363
+187,40215.0,53,Female,African American,Non-Hispanic,Deposit Only,0,1.0,821.0,3/3/2022,3.0,364
+607,40215.0,29,Female,African American,Non-Hispanic,Deposit + 2 Months Rent,39000,1.0,2775.0,3/3/2022,21.0,365
+515,40203.0,56,Female,African American,Non-Hispanic,Deposit + 2 Months Rent,20424,1.0,1222.0,3/3/2022,4.0,366
+445,40202.0,22,Female,African American,Non-Hispanic,Deposit + 2 Months Rent,11000,1.0,1375.3,3/3/2022,4.0,367
+203,40218.0,57,Male,White,Non-Hispanic,Deposit Only,0,1.0,725.0,3/3/2022,10.0,368
+455,40218.0,40,Male,White,Non-Hispanic,Deposit + 2 Months Rent,12000,2.0,3996.0,3/3/2022,10.0,369
+595,40219.0,30,Female,African American,Non-Hispanic,Deposit + 2 Months Rent,35800,3.0,4400.0,3/3/2022,2.0,370
+560,40219.0,49,Female,African American,Non-Hispanic,Deposit + 2 Months Rent,27816,5.0,1762.0,3/3/2022,2.0,371
+600,40258.0,56,Male,African American,Non-Hispanic,Deposit + 2 Months Rent,36480,1.0,3600.0,2/17/2022,14.0,372
+428,40216.0,22,Female,African American,Non-Hispanic,Deposit + 2 Months Rent,10092,1.0,870.0,2/17/2022,12.0,373
+499,40216.0,29,Female,African American,Non-Hispanic,Deposit + 2 Months Rent,18432,1.0,1582.0,2/17/2022,3.0,374
+459,40211.0,35,Female,African American,Non-Hispanic,Deposit + 2 Months Rent,13000,1.0,1350.0,2/17/2022,5.0,375
+615,40214.0,26,Male,African American,Non-Hispanic,Deposit + 2 Months Rent,43400,1.0,1699.0,2/17/2022,12.0,376
+513,40215.0,25,Female,White,Non-Hispanic,Deposit + 2 Months Rent,20000,4.0,1550.0,2/17/2022,3.0,377
+186,40215.0,54,Male,African American,Non-Hispanic,Deposit Only,0,1.0,746.0,2/17/2022,3.0,378
+616,40215.0,52,Female,White,Non-Hispanic,Deposit + 2 Months Rent,44000,2.0,3150.0,2/17/2022,15.0,379
+394,40203.0,31,Female,African American,Non-Hispanic,Deposit + 2 Months Rent,8064,3.0,2400.0,2/17/2022,5.0,380
+598,40214.0,36,Female,African American,Unknown,Deposit + 2 Months Rent,36000,4.0,1402.0,2/17/2022,21.0,381
+442,40208.0,32,Female,African American,Non-Hispanic,Deposit + 2 Months Rent,10454,2.0,908.0,2/17/2022,6.0,382
+193,40203.0,32,Female,African American,Non-Hispanic,Deposit Only,0,4.0,1000.0,2/17/2022,6.0,383
+541,40204.0,46,Female,African American,Non-Hispanic,Deposit + 2 Months Rent,25000,3.0,1519.0,2/17/2022,6.0,384
+575,40206.0,32,Male,African American,Non-Hispanic,Deposit + 2 Months Rent,31200,1.0,3600.0,2/17/2022,9.0,385
+543,40218.0,44,Female,African American,Non-Hispanic,Deposit + 2 Months Rent,25200,2.0,2100.0,2/10/2022,12.0,386
+462,40258.0,58,Male,White,Non-Hispanic,Deposit + 2 Months Rent,13296,1.0,2043.0,2/10/2022,14.0,387
+526,40216.0,43,Female,Mixed Race,Hispanic,Deposit Only,22800,5.0,750.0,2/10/2022,3.0,388
+582,40216.0,51,Female,African American,Non-Hispanic,Deposit + 2 Months Rent,32640,3.0,3300.0,2/10/2022,1.0,389
+621,40211.0,35,Male,African American,Non-Hispanic,Deposit + 1 Month Rent,51000,3.0,1987.5,2/10/2022,5.0,390
+476,40216.0,73,Female,White,Non-Hispanic,Deposit + 2 Months Rent,14832,1.0,1620.0,2/10/2022,3.0,391
+578,40211.0,36,Female,African American,Non-Hispanic,Deposit + 2 Months Rent,31680,3.0,2000.0,2/10/2022,1.0,392
+452,40210.0,63,Female,African American,Non-Hispanic,Deposit + 1 Month Rent,11928,1.0,1400.0,2/10/2022,1.0,393
+177,40210.0,26,Female,African American,Non-Hispanic,Deposit + 2 Months Rent,0,3.0,103.83,2/10/2022,6.0,394
+552,40208.0,38,Female,African American,Non-Hispanic,Deposit + 2 Months Rent,26400,1.0,2643.94,2/10/2022,15.0,395
+414,40214.0,43,Female,White,Non-Hispanic,Deposit + 2 Months Rent,10000,1.0,2000.0,2/10/2022,21.0,396
+189,40208.0,56,Male,White,Non-Hispanic,Deposit + 1 Month Rent,0,1.0,1596.0,2/10/2022,6.0,397
+534,40213.0,37,Male,African American,Non-Hispanic,Deposit + 2 Months Rent,24000,1.0,3300.0,2/10/2022,2.0,398
+529,40212.0,53,Female,African American,Non-Hispanic,Deposit + 2 Months Rent,23000,1.0,2025.0,2/2/2022,5.0,399
+517,40216.0,58,Male,African American,Non-Hispanic,Deposit + 1 Month Rent,20748,1.0,1335.0,2/2/2022,3.0,400
+98,40210.0,37,Female,White,Non-Hispanic,deposit / october,0,3.0,100.0,10/7/2021,6.0,401
+300,40211.0,34,Female,African American,Non-Hispanic,Deposit/Oct/Nov,1250,4.0,1306.6,11/29/2021,4.0,402
+29,40219.0,37,Female,African American,Non-Hispanic,deposit,,4.0,500.0,10/7/2021,13.0,403
+344,40258.0,28,Female,African American,Non-Hispanic,Dep / Nov / Dec,2333,2.0,3195.0,11/23/2021,14.0,404
+55,40219.0,21,Male,African American,Non-Hispanic,deposit / october,,1.0,741.0,10/7/2021,2.0,405
+113,40299.0,34,Female,White,Non-Hispanic,deposit,0,2.0,1070.0,11/3/2021,11.0,406
+335,40208.0,44,Female,African American,Non-Hispanic,"1/2 Aug, Sept, 1/2 Oct and deposit",2070,7.0,2355.0,8/13/2021,6.0,407
+296,40211.0,59,Male,Mixed Race,Non-Hispanic,deposit / november / december,1200,1.0,2550.0,11/23/2021,5.0,408
+323,40257.0,32,Female,African American,Non-Hispanic,deposit / october,1800,3.0,1700.0,10/7/2021,10.0,409
+112,40299.0,34,Female,White,Non-Hispanic,deposit,0,2.0,1300.0,11/3/2021,11.0,410
+317,40206.0,24,Female,African American,Non-Hispanic,"dep, 1/2 Aug, Sept and 1/2 Oct",1644,1.0,2210.0,8/13/2021,15.0,411
+299,40211.0,81,Male,Mixed Race,Non-Hispanic,deposit / november / december,1250,1.0,2550.0,11/23/2021,4.0,412
+293,40258.0,28,Female,African American,Non-Hispanic,deposit / october,1200,3.0,1075.0,10/4/2021,14.0,413
+322,40258.0,28,Female,African American,Non-Hispanic,deposit / Aug prorate / September,1750,2.0,4900.0,11/3/2021,14.0,414
+75,40228.0,26,Female,Mixed Race,Non-Hispanic,Dep / Aug / Sept,0,3.0,2250.0,8/13/2021,2.0,415
+133,40203.0,25,Female,White,Non-Hispanic,deposit,0,4.0,980.0,11/23/2021,6.0,416
+294,40211.0,25,Female,African American,Non-Hispanic,deposit / prorated september,1200,4.0,455.0,10/4/2021,4.0,417
+2,40211.0,32,Female,African American,Non-Hispanic,deposit / november,794,4.0,319.0,11/2/2021,1.0,418
+69,40214.0,20,Female,African American,Non-Hispanic,August Deposit,0,2.0,750.0,8/11/2021,25.0,419
+280,40215.0,35,Female,White,Non-Hispanic,Dep / Nov,1000,2.0,1525.0,11/22/2021,15.0,420
+268,40219.0,24,Female,African American,Non-Hispanic,deposit,830,3.0,400.0,10/4/2021,24.0,421
+8,40211.0,28,Female,African American,Non-Hispanic,deposit / november,1500,3.0,2400.0,11/2/2021,1.0,422
+70,40210.0,56,Female,African American,Non-Hispanic,Dep/Aug/Sept,0,1.0,2250.0,8/11/2021,3.0,423
+281,40203.0,53,Female,Mixed Race,Non-Hispanic,deposit / october / november,1000,1.0,3000.0,11/22/2021,5.0,424
+96,40203.0,61,Male,African American,Non-Hispanic,Dep and July and August rent,0,1.0,272.83,9/27/2021,6.0,425
+13,40210.0,38,Female,White,Non-Hispanic,deposit / november,1917,4.0,1225.0,11/2/2021,4.0,426
+74,40215.0,41,Female,African American,Non-Hispanic,Dep / PR Aug / Sept,0,2.0,2021.29,8/11/2021,3.0,427
+332,40272.0,38,Female,African American,Non-Hispanic,Dep / Nov,2000,4.0,1435.0,11/21/2021,14.0,428
+97,40219.0,23,Female,African American,Non-Hispanic,October rent,0,2.0,910.0,9/23/2021,13.0,429
+356,40203.0,43,Male,African American,Non-Hispanic,october / november,2600,3.0,873.0,11/2/2021,6.0,430
+76,40202.0,19,Female,African American,Non-Hispanic,August Dep and Rent,0,1.0,1580.0,8/11/2021,4.0,431
+174,40215.0,53,Female,African American,Non-Hispanic,Dep / Nov,0,1.0,2125.0,11/19/2021,3.0,432
+31,40202.0,53,Female,African American,Non-Hispanic,"dep/prorate Aug, full Sept",,1.0,672.0,9/22/2021,4.0,433
+111,40203.0,62,Male,African American,Non-Hispanic,deposit / october,0,3.0,217.0,11/2/2021,4.0,434
+66,40210.0,27,Female,African American,Non-Hispanic,August deposit and rent,0,4.0,259.16,8/10/2021,6.0,435
+40,40211.0,45,Male,White,Non-Hispanic,deposit / nov,,1.0,605.5,11/19/2021,4.0,436
+325,40203.0,39,Female,African American,Non-Hispanic,deposit / nov / dec,1800,5.0,2362.0,11/19/2021,4.0,437
+379,40203.0,28,Female,African American,Non-Hispanic,Deposit / Nov,3262,3.0,1700.0,11/19/2021,5.0,438
+364,40208.0,44,Female,African American,Non-Hispanic,nov / dec,2800,4.0,1752.0,11/19/2021,6.0,439
+130,40203.0,44,Female,White,Non-Hispanic,deposit,0,1.0,50.0,11/19/2021,4.0,440
+129,40203.0,31,Male,White,Non-Hispanic,deposit,0,1.0,50.0,11/19/2021,4.0,441
+114,40214.0,30,Male,White,Non-Hispanic,deposit,0,3.0,958.0,11/19/2021,21.0,442
+233,40203.0,64,Male,White,Non-Hispanic,deposit/Nov,550,1.0,540.0,11/19/2021,6.0,443
+237,,27,Male,Mixed Race,Non-Hispanic,deposit,625,1.0,0.0,11/19/2021,6.0,444
+131,40206.0,37,Female,White,Non-Hispanic,deposit,0,1.0,760.0,11/19/2021,4.0,445
+367,40216.0,36,Male,African American,Non-Hispanic,nov / dec,3000,1.0,1560.0,11/17/2021,12.0,446
+225,40210.0,28,Female,African American,Non-Hispanic,deposit / prorate november,328,4.0,362.0,11/17/2021,3.0,447
+622,40291.0,27,Male,African American,Non-Hispanic,deposit / nov/dec,0,1.0,1935.07,11/17/2021,24.0,448
+128,40203.0,37,Female,White,Non-Hispanic,dep / nov / dec,0,3.0,1586.0,11/17/2021,4.0,449
+122,40258.0,30,Female,White,Non-Hispanic,Deposit,0,1.0,700.0,11/15/2021,1.0,450
+307,40212.0,38,Female,African American,Non-Hispanic,Dep / nov,1400,3.0,1950.0,11/15/2021,5.0,451
+266,40211.0,55,Female,White,Non-Hispanic,deposit,814,1.0,300.0,11/15/2021,5.0,452
+382,40216.0,44,Female,African American,Non-Hispanic,dep / november / december,3600,2.0,3300.0,11/15/2021,3.0,453
+12,40211.0,23,Female,Mixed Race,Non-Hispanic,deposit / october / november,1600,1.0,3000.0,11/15/2021,1.0,454
+121,40212.0,36,Male,African American,Non-Hispanic,deposit / november / december,0,2.0,1350.0,11/15/2021,5.0,455
+311,40211.0,51,Female,African American,Non-Hispanic,dep / november,1500,2.0,1700.0,11/15/2021,4.0,456
+224,40210.0,24,Female,African American,Non-Hispanic,deposit,225,3.0,930.0,11/15/2021,4.0,457
+393,40210.0,35,Female,White,Non-Hispanic,Nov rent,8000,2.0,156.67,11/15/2021,6.0,458
+127,40203.0,46,Female,White,Non-Hispanic,Dep / nov,0,1.0,385.0,11/15/2021,6.0,459
+126,40203.0,28,Female,African American,Non-Hispanic,Dep / nov,0,2.0,231.3,11/15/2021,4.0,460
+123,40203.0,62,Male,White,Hispanic,Dep / nov,0,1.0,348.9,11/15/2021,4.0,461
+124,40203.0,58,Male,African American,Non-Hispanic,Dep / nov,0,1.0,100.0,11/15/2021,4.0,462
+125,40203.0,53,Male,African American,Non-Hispanic,Dep / nov,0,1.0,53.27,11/15/2021,4.0,463
+279,40218.0,25,Female,African American,Non-Hispanic,dep / prorate november / december,1000,1.0,2573.62,11/15/2021,10.0,464
+235,40218.0,26,Female,Mixed Race,Non-Hispanic,deposit ,600,3.0,1007.0,11/15/2021,2.0,465
+547,40059.0,26,Female,Unknown,Unknown,deposit / prorate november / december,26000,,0.0,11/15/2021,16.0,466
+33,40215.0,47,Female,White,Non-Hispanic,deposit,,1.0,839.0,11/10/2021,15.0,467
+120,40210.0,30,Female,African American,Non-Hispanic,deposit,0,7.0,930.0,11/10/2021,4.0,468
+119,40203.0,23,Male,African American,Non-Hispanic,deposit /  november,0,1.0,1200.0,11/10/2021,6.0,469
+18,40208.0,21,Male,African American,Non-Hispanic,deposit / november,2453,1.0,1278.0,11/10/2021,6.0,470
+5,40211.0,22,Male,African American,Non-Hispanic,deposit / october / november,1200,1.0,1800.0,11/9/2021,4.0,471
+251,40204.0,54,Male,African American,Non-Hispanic,deposit / sept / oct,794,1.0,808.0,11/8/2021,25.0,472
+117,40210.0,44,Female,African American,Non-Hispanic,deposit,0,2.0,100.0,11/8/2021,6.0,473
+116,40210.0,21,Female,White,Non-Hispanic,deposit,0,1.0,100.0,11/8/2021,6.0,474
+115,40210.0,23,Female,African American,Non-Hispanic,deposit,0,2.0,100.0,11/8/2021,6.0,475
+118,40210.0,26,Male,White,Non-Hispanic,deposit,0,7.0,100.0,11/8/2021,6.0,476
+1,40203.0,31,Female,African American,Non-Hispanic,deposit,350,4.0,965.0,11/8/2021,6.0,477
+261,40219.0,27,Female,African American,Non-Hispanic,dep/aug/sept,800,1.0,400.0,11/8/2021,24.0,478
+132,40212.0,29,Female,African American,Non-Hispanic,deposit,0,4.0,1100.0,11/5/2021,5.0,479
+3,40210.0,61,Female,African American,Non-Hispanic,deposit,1040,1.0,607.0,11/5/2021,5.0,480
+10,40203.0,47,Female,African American,Non-Hispanic,deposit / november,1583,3.0,1316.0,11/5/2021,4.0,481
+295,40208.0,22,Female,African American,Non-Hispanic,pending tenant/HUD amts,1200,1.0,1282.0,11/3/2021,15.0,482
+331,40204.0,44,Female,White,Non-Hispanic,deposit / october / november,2000,1.0,2250.0,11/3/2021,8.0,483
+532,40218.0,53,Female,African American,Non-Hispanic,deposit / september / october,23532,1.0,2700.0,11/3/2021,10.0,484
+236,40212.0,27,Female,African American,Non-Hispanic,deposit,615,2.0,300.0,9/20/2021,5.0,485
+250,40218.0,57,Female,African American,Non-Hispanic,deposit,794,2.0,928.0,11/2/2021,10.0,486
+94,40215.0,32,Female,White,Non-Hispanic,Sept Deposit,0,1.0,450.0,9/20/2021,3.0,487
+67,40203.0,21,Female,African American,Non-Hispanic,August deposit ,0,1.0,725.0,8/10/2021,6.0,488
+110,40212.0,50,Female,African American,Non-Hispanic,deposit / november,0,2.0,711.0,11/1/2021,5.0,489
+30,40203.0,19,Female,African American,Non-Hispanic,Sept deposit,,1.0,650.0,9/20/2021,6.0,490
+72,40211.0,47,Female,White,Non-Hispanic,Dep / Aug,0,5.0,1320.0,8/9/2021,5.0,491
+135,40210.0,23,Female,African American,Non-Hispanic,deposit / november,0,3.0,100.0,11/1/2021,6.0,492
+292,40203.0,54,Male,African American,Non-Hispanic,deposit,1150,1.0,500.0,9/20/2021,4.0,493
+68,40215.0,35,Female,Mixed Race,Non-Hispanic,August deposit,0,1.0,600.0,8/9/2021,15.0,494
+57,40211.0,32,Female,African American,Non-Hispanic,Nov deposit,"$3,333 ",5.0,900.0,11/1/2021,1.0,495
+275,40203.0,30,Female,African American,Non-Hispanic,deposit,925,4.0,2050.0,9/20/2021,4.0,496
+78,40203.0,63,Male,Mixed Race,Non-Hispanic,Dep,0,1.0,746.0,8/6/2021,4.0,497
+106,40214.0,32,Female,African American,Non-Hispanic,deposit,0,2.0,825.0,10/28/2021,12.0,498
+248,40214.0,54,Female,African American,Non-Hispanic,deposit,794,1.0,725.0,9/20/2021,15.0,499
+71,40218.0,56,Female,White,Non-Hispanic,August Deposit,0,1.0,700.0,8/6/2021,10.0,500
+413,40214.0,41,Female,African American,Non-Hispanic,deposit,10000,1.0,825.0,10/28/2021,12.0,501
+341,40210.0,31,Female,African American,Non-Hispanic,dep / PR Sept / Oct,2300,5.0,2069.0,9/19/2021,1.0,502
+65,40215.0,45,Female,African American,Non-Hispanic,Aug/ Sept,0,2.0,1322.0,8/4/2021,3.0,503
+107,40212.0,43,Female,White,Non-Hispanic,deposit,0,3.0,300.0,10/28/2021,5.0,504
+276,40203.0,57,Female,African American,Non-Hispanic,deposit / PR Aug rent / Sept rent,925,1.0,2240.0,9/16/2021,6.0,505
+63,40210.0,37,Female,African American,Non-Hispanic,Dep / Aug / Sept,0,3.0,2850.0,8/4/2021,4.0,506
+365,40210.0,40,Female,Mixed Race,Non-Hispanic,deposit,2880,4.0,1350.0,10/28/2021,6.0,507
+291,40203.0,58,Female,African American,Non-Hispanic,deposit,1100,2.0,930.0,9/16/2021,4.0,508
+64,40203.0,23,Female,African American,Non-Hispanic,Dep/Aug/Sept,0,3.0,1784.0,8/4/2021,4.0,509
+109,40214.0,23,Female,Mixed Race,Non-Hispanic,deposit,0,1.0,828.0,10/28/2021,21.0,510
+303,40211.0,65,Female,African American,Non-Hispanic,dep / sept / oct,1276,1.0,925.75,9/14/2021,5.0,511
+61,40214.0,65,Female,White,Non-Hispanic,Dep/Aug/Sep,0,2.0,2290.0,8/4/2021,13.0,512
+328,40204.0,29,Female,African American,Non-Hispanic,deposit/oct.,1900,3.0,1712.0,10/27/2021,6.0,513
+93,40216.0,24,Male,African American,Non-Hispanic,Sept deposit,0,1.0,699.0,9/13/2021,1.0,514
+62,40215.0,49,Female,White,Non-Hispanic,August Dep and Aug/Sept Rent,0,4.0,2400.0,8/4/2021,15.0,515
+306,40220.0,22,Female,Mixed Race,Non-Hispanic,deposit / october / november,1400,2.0,729.0,10/26/2021,11.0,516
+6,40210.0,31,Female,White,Non-Hispanic,Sept Deposit and rent,1250,4.0,206.4,9/13/2021,6.0,517
+59,40210.0,31,Male,African American,Non-Hispanic,Dep/July PR/Aug/Sep,0,1.0,2400.0,8/2/2021,6.0,518
+302,40212.0,66,Male,Mixed Race,Non-Hispanic,deposit / october / november,1270,1.0,2505.0,10/25/2021,5.0,519
+92,40210.0,42,Female,African American,Non-Hispanic,Sept deposit and rent,0,6.0,345.17,9/13/2021,6.0,520
+58,40215.0,54,Female,African American,Non-Hispanic,Dep/July/Aug,0,2.0,1188.0,8/2/2021,15.0,521
+17,40210.0,33,Female,African American,Non-Hispanic,deposit / november,2167,6.0,1225.0,10/25/2021,6.0,522
+34,40210.0,33,Female,African American,Non-Hispanic,Sept deposit and rent,,4.0,336.0,9/13/2021,6.0,523
+60,40203.0,61,Male,African American,Non-Hispanic,July deposit and July and August rent,0,1.0,765.5,8/2/2021,6.0,524
+304,40210.0,70,Male,Mixed Race,Non-Hispanic,deposit / october / november,1300,1.0,2655.0,10/25/2021,4.0,525
+230,40215.0,61,Male,African American,Non-Hispanic,Dep / Sept / Oct,500,1.0,1500.0,9/2/2021,3.0,526
+95,40210.0,32,Female,African American,Non-Hispanic,Sept deposit,0,2.0,100.0,9/2/2021,6.0,527
+91,40203.0,22,Female,African American,Non-Hispanic,Sept deposit,0,2.0,100.0,9/2/2021,4.0,528
+511,40212.0,29,Female,White,Non-Hispanic,August and Sept rent and deposit,20000,2.0,1350.0,8/31/2021,5.0,529
+310,40208.0,62,Female,White,Non-Hispanic,dep / aug / sept,1500,2.0,2400.0,8/31/2021,3.0,530
+527,40208.0,23,Male,African American,Non-Hispanic,Dep and Sept,23000,2.0,1847.0,8/31/2021,15.0,531
+329,40208.0,28,Female,African American,Non-Hispanic,"Dep, Sept/Oct",2000,2.0,2550.0,8/31/2021,6.0,532
+584,40204.0,34,Female,African American,Non-Hispanic,August and Sept rent and deposit,33600,5.0,3000.0,8/31/2021,6.0,533
+270,40203.0,43,Female,White,Non-Hispanic,dep / sept / oct,851,1.0,2250.0,8/31/2021,6.0,534
+90,40219.0,35,Female,African American,Non-Hispanic,Sept deposit,0,4.0,500.0,8/31/2021,24.0,535
+489,40210.0,36,Female,African American,Non-Hispanic,August and Sept rent and deposit,17000,2.0,2475.0,8/30/2021,4.0,536
+277,40214.0,34,Female,White,Non-Hispanic,Dep/Aug,1000,1.0,631.0,8/30/2021,21.0,537
+83,40202.0,23,Male,African American,Non-Hispanic,August deposit and rent,0,1.0,1580.0,8/30/2021,4.0,538
+312,40203.0,20,Male,African American,Non-Hispanic,August deposit and rent,1580,1.0,1580.0,8/30/2021,4.0,539
+289,40205.0,19,Female,African American,Non-Hispanic,August deposit,1083,1.0,650.0,8/30/2021,8.0,540
+373,40220.0,48,Female,African American,Non-Hispanic,dep / sept / oct,3194,5.0,3900.0,8/30/2021,26.0,541
+227,40299.0,35,Female,African American,Non-Hispanic,dep / aug prorate / app fee,400,2.0,1084.0,8/30/2021,11.0,542
+89,40212.0,35,Male,White,Non-Hispanic,August deposit,0,1.0,300.0,8/26/2021,5.0,543
+87,40203.0,19,Female,African American,Non-Hispanic,Dep and August rent,0,2.0,718.8,8/26/2021,4.0,544
+88,40203.0,22,Female,African American,Non-Hispanic,Dep and August and September rent,0,3.0,191.67,8/26/2021,6.0,545
+290,40214.0,62,Female,White,Non-Hispanic,"dep, 1/2 Aug, Sept and 1/2 Oct",1084,1.0,2700.0,8/24/2021,3.0,546
+86,40203.0,60,Male,African American,Non-Hispanic,"Security, August and Sept rent",0,1.0,368.33,8/24/2021,4.0,547
+84,40258.0,62,Female,African American,Non-Hispanic,Dep / Sept,0,1.0,1036.29,8/23/2021,12.0,548
+81,40214.0,53,Female,White,Non-Hispanic,Dep / Sept / Oct,0,2.0,1749.0,8/23/2021,12.0,549
+85,40215.0,53,Female,African American,Non-Hispanic,Dep / Sept / Oct,0,2.0,3600.0,8/23/2021,15.0,550
+82,40210.0,49,Male,White,Non-Hispanic,August Deposit,0,2.0,100.0,8/23/2021,6.0,551
+573,40208.0,32,Female,African American,Non-Hispanic,"dep, 1/2 Aug, Sept and 1/2 Oct",30552,8.0,4500.0,8/23/2021,6.0,552
+260,40204.0,58,Female,White,Non-Hispanic,"dep, sept/oct",800,1.0,1950.0,8/23/2021,21.0,553
+357,40208.0,35,Female,African American,Non-Hispanic,december / january,2600,4.0,3070.0,8/21/2021,6.0,554
+401,40203.0,72,Female,White,Non-Hispanic,"dep, 1/2 Aug, Sept and 1/2 Oct",9456,1.0,612.0,8/18/2021,6.0,555
+80,40211.0,35,Female,Mixed Race,Non-Hispanic,Dep / Sept / Oct,0,6.0,2550.0,8/16/2021,1.0,556
+79,40272.0,60,Female,African American,Non-Hispanic,Dep / Aug,0,3.0,2400.0,8/16/2021,14.0,557
+73,40216.0,21,Female,Mixed Race,Non-Hispanic,PR August,0,3.0,880.65,8/13/2021,1.0,558
+77,40212.0,33,Female,Mixed Race,Non-Hispanic,Deposit / Aug / Sept,0,3.0,2280.0,8/13/2021,25.0,559
+349,40216.0,27,Female,African American,Non-Hispanic,Dbl Dep/July PR,2429,3.0,2429.0,7/28/2021,1.0,560
+286,40215.0,43,Female,African American,Non-Hispanic,Dep,1012,1.0,1012.0,7/28/2021,3.0,561
+402,40223.0,61,Male,African American,Non-Hispanic,dep/sept/oct,9528,1.0,684.0,10/25/2021,4.0,562
+318,40212.0,26,Female,African American,Non-Hispanic,Dep,1650,4.0,1650.0,7/28/2021,5.0,563
+9,40220.0,51,Female,Others,Non-Hispanic,october,1583,2.0,950.0,10/20/2021,11.0,564
+212,40203.0,18,Female,African American,Non-Hispanic,Deposit July,100,2.0,100.0,7/28/2021,4.0,565
+103,40215.0,44,Female,White,Non-Hispanic,deposit / august,0,1.0,450.0,10/18/2021,3.0,566
+240,40291.0,31,Female,African American,Non-Hispanic,July Deposit and Rent,684.2,2.0,684.2,7/28/2021,24.0,567
+228,40210.0,35,Female,African American,Non-Hispanic,July Deposit and Rent,425.33,8.0,425.33,7/26/2021,6.0,568
+220,40204.0,18,Female,African American,Non-Hispanic,Dep/July/Aug,166.48,2.0,166.48,7/26/2021,6.0,569
+215,40228.0,18,Female,African American,Non-Hispanic,July Deposit,100,2.0,100.0,7/26/2021,2.0,570
+226,40228.0,33,Female,African American,Non-Hispanic,Deposit,350,3.0,350.0,7/22/2021,2.0,571
+313,40216.0,58,Male,African American,Non-Hispanic,Dep/July/Aug,1581.5,1.0,1581.5,7/21/2021,3.0,572
+217,40210.0,43,Female,African American,Non-Hispanic,July Deposit and Rent,103.67,3.0,103.67,7/21/2021,6.0,573
+216,40210.0,36,Female,African American,Non-Hispanic,July Deposit,100,2.0,100.0,7/20/2021,6.0,574
+231,40203.0,30,Female,African American,Non-Hispanic,July rent and Deposit and August rent,516,6.0,516.0,7/20/2021,4.0,575
+298,40219.0,55,Female,African American,Non-Hispanic,Dep/July,1250,1.0,1250.0,7/20/2021,2.0,576
+345,40210.0,44,Female,African American,Non-Hispanic,"Deposit, July and Aug rent",2400,3.0,2400.0,7/19/2021,5.0,577
+244,40229.0,25,Female,White,Non-Hispanic,Sec Dep,750,2.0,750.0,7/19/2021,24.0,578
+374,40222.0,34,Male,African American,Non-Hispanic,Dep,3200,5.0,3200.0,7/19/2021,7.0,579
+239,40212.0,58,Female,White,Non-Hispanic,Dep/July/Aug,675,1.0,675.0,7/16/2021,5.0,580
+222,40203.0,25,Female,African American,Non-Hispanic,"July deposit and rent, August rent",195.07,4.0,195.07,7/16/2021,4.0,581
+229,40203.0,62,Male,African American,Non-Hispanic,Dep/July,486,1.0,486.0,7/16/2021,4.0,582
+214,40204.0,22,Female,African American,Non-Hispanic,July Deposit,100,2.0,100.0,7/16/2021,6.0,583
+380,40213.0,33,Female,White,Non-Hispanic,Dep/July/Aug,3350,2.0,3350.0,7/16/2021,21.0,584
+363,40212.0,33,Female,African American,Non-Hispanic,Dep/July/Aug,2777.42,4.0,2777.42,7/14/2021,5.0,585
+355,40212.0,33,Female,African American,Hispanic,June,2600,3.0,2600.0,7/14/2021,5.0,586
+316,40203.0,35,Female,White,Non-Hispanic,Dep/July/Aug,1612.9,3.0,1612.9,7/14/2021,6.0,587
+297,40211.0,35,Female,African American,Non-Hispanic,Deposit and July Rent,1225,3.0,1225.0,7/12/2021,6.0,588
+269,40213.0,23,Female,African American,Non-Hispanic,Sec dep and July rent,831.4,1.0,831.4,7/12/2021,21.0,589
+362,40258.0,57,Female,White,Non-Hispanic,Dep/July/Aug,2775,4.0,2775.0,7/8/2021,1.0,590
+221,40210.0,69,Male,African American,Non-Hispanic,July Deposit and Rent,191,1.0,191.0,7/8/2021,6.0,591
+213,40210.0,33,Female,African American,Non-Hispanic,July Deposit ,100,1.0,100.0,7/8/2021,6.0,592
+218,40203.0,23,Female,African American,Non-Hispanic,July Deposit and Rent and August Rent,109,2.0,109.0,7/8/2021,4.0,593
+287,40214.0,45,Male,White,Non-Hispanic,Dep/June Pro-rate/July,1033,1.0,1033.0,7/8/2021,21.0,594
+245,40211.0,63,Female,African American,Non-Hispanic,Dep/Nov,760,1.0,521.0,12/13/2022,5.0,595
+336,40208.0,30,Male,African American,Non-Hispanic,Dep/Jan/Feb,2100,3.0,2200.0,12/20/2021,6.0,596
+108,40203.0,45,Female,African American,Non-Hispanic,Deposit and Set and Oct rent,0,1.0,352.07,10/18/2021,6.0,597
+265,40203.0,66,Male,White,Non-Hispanic,Deposit,814,1.0,746.0,10/18/2021,4.0,598
+484,40206.0,58,Female,African American,Non-Hispanic,deposit / november / december,16030,1.0,2100.0,10/18/2021,4.0,599
+140,40220.0,23,Female,African American,Non-Hispanic,deposit / october,0,2.0,1186.42,10/18/2021,26.0,600
+16,40212.0,33,Female,African American,Non-Hispanic,deposit / october prorate / november,2083,3.0,1314.84,10/18/2021,5.0,601
+330,40211.0,37,Female,Others,Non-Hispanic,deposit / prorate october / november,2000,1.0,1316.0,10/15/2021,5.0,602
+54,40212.0,24,Male,African American,Non-Hispanic,deposit / october,,1.0,1300.0,10/15/2021,5.0,603
+24,40215.0,33,Female,African American,Non-Hispanic,deposit / september / october,,5.0,2307.23,10/15/2021,3.0,604
+234,40212.0,33,Female,African American,Non-Hispanic,deposit,600,3.0,1540.0,10/15/2021,5.0,605
+7,40203.0,23,Male,African American,Non-Hispanic,deposit / aug rent,1333,1.0,1300.0,10/15/2021,6.0,606
+105,40211.0,53,Female,White,Non-Hispanic,deposit and october rent,0,1.0,1800.0,10/14/2021,1.0,607
+371,40215.0,61,Female,White,Non-Hispanic,"dep/1/2 aug, sept/1/2oct",3084,1.0,1950.0,10/14/2021,15.0,608
+14,40272.0,33,Female,African American,Non-Hispanic,deposit,1917,6.0,928.0,10/13/2021,14.0,609
+321,40211.0,64,Male,Mixed Race,Non-Hispanic,deposit / october / november,1713,1.0,2520.0,10/13/2021,5.0,610
+278,40211.0,69,Male,Mixed Race,Non-Hispanic,deposit / october / november,1000,1.0,2070.0,10/13/2021,4.0,611
+272,40202.0,31,Male,African American,Non-Hispanic,deposit / october / november,913,1.0,2417.0,10/13/2021,4.0,612
+53,40216.0,51,Female,African American,Non-Hispanic,deposit / october / november,,4.0,1109.0,10/11/2021,1.0,613
+271,40212.0,41,Female,African American,Non-Hispanic,deposit,900,1.0,750.0,10/11/2021,5.0,614
+385,40214.0,34,Female,African American,Non-Hispanic,deposit / october,4500,1.0,2800.0,10/11/2021,21.0,615
+274,40208.0,52,Male,African American,Non-Hispanic,deposit / sept rent,920,1.0,1405.0,10/11/2021,6.0,616
+104,40203.0,58,Female,White,Non-Hispanic,deposit / september / october,0,1.0,334.17,10/11/2021,4.0,617
+28,40203.0,27,Male,White,Non-Hispanic,deposit / october,,1.0,1140.0,10/11/2021,4.0,618
+101,40203.0,34,Female,African American,Non-Hispanic,deposit / october / november,0,1.0,862.67,10/11/2021,4.0,619
+32,40219.0,19,Female,African American,Non-Hispanic,deposit / october,,2.0,1582.0,10/11/2021,2.0,620
+223,40219.0,29,Female,African American,Non-Hispanic,deposit,200,3.0,950.0,10/11/2021,24.0,621
+100,40242.0,40,Female,White,Non-Hispanic,deposit / october / november,0,1.0,250.0,10/11/2021,19.0,622
+102,40215.0,20,Female,African American,Non-Hispanic,deposit / october,0,1.0,600.0,10/11/2021,15.0,623
+502,40212.0,46,Female,African American,Non-Hispanic,dep/october,19056,2.0,900.0,10/8/2021,5.0,624
+99,40210.0,26,Female,African American,Non-Hispanic,Oct deposit and rent,0,1.0,107.2,10/8/2021,6.0,625
+41,40272.0,33,Male,African American,Non-Hispanic,deposit / october,,2.0,1350.0,10/7/2021,14.0,626
+4,40210.0,36,Male,White,Non-Hispanic,deposit / october,1165.25,3.0,344.0,10/7/2021,6.0,627
+21,40210.0,44,Female,African American,Non-Hispanic,deposit / october,,1.0,117.87,10/7/2021,6.0,628
+249,40210.0,20,Female,African American,Non-Hispanic,deposit / october,794,2.0,139.5,10/7/2021,6.0,629

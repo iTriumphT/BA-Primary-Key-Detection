@@ -1,0 +1,430 @@
+GSPAR_ID,ALTAR_ID,REPORT_YEAR,BASIN_NAME,SUBBASIN_NUMBER,SINGLE_MULTIPLE_AR,ANNUAL_REPORT_AREA,AQUIFER_NAME,CHANGE_AMOUNT
+8.0,,2019,DELTA-MENDOTA,5-022.07,Single Annual Report,Entire Basin,Lower Aquifer,-32500.0
+8.0,,2019,DELTA-MENDOTA,5-022.07,Single Annual Report,Entire Basin,Upper Aquifer,53600.0
+9.0,,2019,KERN COUNTY,5-022.14,Single Annual Report,Entire Basin,Principal Aquifer: Kern County Subbasin,851260.0
+10.0,,2019,CHOWCHILLA,5-022.05,Single Annual Report,Entire Basin,Lower Aquifer Zone,35841.0
+10.0,,2019,CHOWCHILLA,5-022.05,Single Annual Report,Entire Basin,Upper Aquifer and Undifferentiated Unconfined Zone,-121759.0
+11.0,,2019,SANTA CRUZ MID-COUNTY,3-001,Single Annual Report,Entire Basin,Aromas Red Sands,227.0
+11.0,,2019,SANTA CRUZ MID-COUNTY,3-001,Single Annual Report,Entire Basin,Purisima A,566.0
+11.0,,2019,SANTA CRUZ MID-COUNTY,3-001,Single Annual Report,Entire Basin,Purisima AA,326.0
+11.0,,2019,SANTA CRUZ MID-COUNTY,3-001,Single Annual Report,Entire Basin,Purisima BC,32.0
+11.0,,2019,SANTA CRUZ MID-COUNTY,3-001,Single Annual Report,Entire Basin,Purisima F/DEF,348.0
+11.0,,2019,SANTA CRUZ MID-COUNTY,3-001,Single Annual Report,Entire Basin,Tu,583.0
+12.0,,2019,MERCED,5-022.04,Single Annual Report,Entire Basin,Above Corcoran Clay,69733.0
+12.0,,2019,MERCED,5-022.04,Single Annual Report,Entire Basin,Below Corcoran Clay,24247.0
+12.0,,2019,MERCED,5-022.04,Single Annual Report,Entire Basin,Outside Corcoran Clay,-12683.0
+13.0,,2019,CUYAMA VALLEY,3-013,Single Annual Report,Entire Basin,Cuyama Valley aquifer,-11100.0
+14.0,,2019,EASTERN SAN JOAQUIN,5-022.01,Single Annual Report,Entire Basin,Principal Aquifer,132000.0
+15.0,,2019,PASO ROBLES AREA,3-004.06,Single Annual Report,Entire Basin,Paso Robles Formation Aquifer,59700.0
+20.0,,2019,MADERA,5-022.06,Multiple Annual Reports,Madera Subbasin Joint GSP,Combined Upper Aquifer and Undifferentiated Unconfined Zone,-85255.0
+20.0,,2019,MADERA,5-022.06,Multiple Annual Reports,Madera Subbasin Joint GSP,Lower Aquifer Zone,9665.0
+21.0,,2019,180/400 FOOT AQUIFER,3-004.01,Single Annual Report,Entire Basin,180-Foot Aquifer,55.0
+21.0,,2019,180/400 FOOT AQUIFER,3-004.01,Single Annual Report,Entire Basin,400-Foot Aquifer,-2155.0
+22.0,,2019,MADERA,5-022.06,Multiple Annual Reports,Madera Basin - GFWD GSA,Primary,-1200.0
+23.0,,2019,SOUTH YUBA,5-021.61,Single Annual Report,Entire Basin,South Yuba Subbasin Aquifer,64000.0
+24.0,,2019,NORTH YUBA,5-021.60,Single Annual Report,Entire Basin,North Yuba Subbasin Aquifer,17000.0
+25.0,,2019,MADERA,5-022.06,Multiple Annual Reports,Madera_RCWD_Adopted,unconfined,9938.0
+26.0,,2019,KINGS,5-022.08,Single Annual Report,Entire Basin,unconfined,210000.0
+27.0,,2019,WESTSIDE,5-022.09,Single Annual Report,Entire Basin,Lower Aquifer,-55000.0
+27.0,,2019,WESTSIDE,5-022.09,Single Annual Report,Entire Basin,Upper Aquifer,-28000.0
+28.0,,2019,TULARE LAKE,5-022.12,Single Annual Report,Entire Basin,Confinded,-84640.0
+28.0,,2019,TULARE LAKE,5-022.12,Single Annual Report,Entire Basin,unconfined,67060.0
+29.0,,2019,KAWEAH,5-022.11,Single Annual Report,Entire Basin,Confined Aquifer,-101000.0
+29.0,,2019,KAWEAH,5-022.11,Single Annual Report,Entire Basin,Unconfined Aquifer,310000.0
+30.0,,2019,OXNARD,4-004.02,Single Annual Report,Entire Basin,Fox Canyon Aquifer,923.0
+30.0,,2019,OXNARD,4-004.02,Single Annual Report,Entire Basin,Grimes Canyon Aquifer,3.0
+30.0,,2019,OXNARD,4-004.02,Single Annual Report,Entire Basin,Hueneme Aquifer,130.0
+30.0,,2019,OXNARD,4-004.02,Single Annual Report,Entire Basin,Mugu Aquifer,257.0
+30.0,,2019,OXNARD,4-004.02,Single Annual Report,Entire Basin,Oxnard Aquifer,17638.0
+31.0,,2019,PLEASANT VALLEY,4-006,Single Annual Report,Entire Basin,Fox Canyon Aquifer,68.0
+32.0,,2019,LAS POSAS VALLEY,4-008,Single Annual Report,Entire Basin,Fox Canyon Aquifer,-659.0
+33.0,,2019,MADERA,5-022.06,Multiple Annual Reports,Madera_NewStone_Adopted,unconfined,-1043.0
+34.0,,2019,TULE,5-022.13,Multiple Annual Reports,LTRID GSA,Upper,-158000.0
+35.0,,2019,TULE,5-022.13,Multiple Annual Reports,Pixley ID GSA,Upper,-57000.0
+36.0,,2019,TULE,5-022.13,Multiple Annual Reports,Basin 5-022.13 - ETGSA GSP,Upper,123000.0
+37.0,,2019,TULE,5-022.13,Multiple Annual Reports,Tule Subbasin Alpaugh GSP,Upper,2000.0
+38.0,,2019,TULE,5-022.13,Multiple Annual Reports,Basin 5-022.13 TCWA - Tule,Upper,17000.0
+39.0,,2019,TULE,5-022.13,Multiple Annual Reports,DEID GSA,upper,252000.0
+40.0,,2019,INDIAN WELLS VALLEY,6-054,Single Annual Report,Entire Basin,El Paso Subarea,10330.0
+40.0,,2019,INDIAN WELLS VALLEY,6-054,Single Annual Report,Entire Basin,Indian Wells Valley Main Basin,-10450.0
+42.0,,2020,MERCED,5-022.04,Single Annual Report,Entire Basin,Above Corcoran Clay,-55755.0
+42.0,,2020,MERCED,5-022.04,Single Annual Report,Entire Basin,Below Corcoran Clay,-17543.0
+42.0,,2020,MERCED,5-022.04,Single Annual Report,Entire Basin,Outside Corcoran Clay,-83896.0
+43.0,,2020,TULARE LAKE,5-022.12,Single Annual Report,Entire Basin,Unconfined,-25706.0
+44.0,,2020,180/400 FOOT AQUIFER,3-004.01,Single Annual Report,Entire Basin,180-Foot Aquifer,-2500.0
+44.0,,2020,180/400 FOOT AQUIFER,3-004.01,Single Annual Report,Entire Basin,400-Foot Aquifer,-5600.0
+45.0,,2020,SANTA CRUZ MID-COUNTY,3-001,Single Annual Report,Entire Basin,Aromas Red Sands,-504.0
+45.0,,2020,SANTA CRUZ MID-COUNTY,3-001,Single Annual Report,Entire Basin,Purisima A,-67.0
+45.0,,2020,SANTA CRUZ MID-COUNTY,3-001,Single Annual Report,Entire Basin,Purisima AA,-259.0
+45.0,,2020,SANTA CRUZ MID-COUNTY,3-001,Single Annual Report,Entire Basin,Purisima BC,-89.0
+45.0,,2020,SANTA CRUZ MID-COUNTY,3-001,Single Annual Report,Entire Basin,Purisima F/DEF,-462.0
+45.0,,2020,SANTA CRUZ MID-COUNTY,3-001,Single Annual Report,Entire Basin,Tu,-195.0
+46.0,,2020,PASO ROBLES AREA,3-004.06,Single Annual Report,Entire Basin,Paso Robles Formation Aquifer,-80800.0
+47.0,,2020,CASTAC LAKE VALLEY,5-029,Single Annual Report,Entire Basin,Castac Lake Valley Groundwater Basin Principal Aquifer,1059.0
+48.0,,2020,MADERA,5-022.06,Multiple Annual Reports,Madera Basin - GFWD GSA,Unconfined,0.0
+49.0,,2020,CUYAMA VALLEY,3-013,Single Annual Report,Entire Basin,Principal Aquifer,-23600.0
+50.0,,2020,INDIAN WELLS VALLEY,6-054,Single Annual Report,Entire Basin,El Paso Subarea,1767.0
+50.0,,2020,INDIAN WELLS VALLEY,6-054,Single Annual Report,Entire Basin,Indian Wells Valley Main Basin,-18274.0
+51.0,,2020,EASTERN SAN JOAQUIN,5-022.01,Single Annual Report,Entire Basin,Principal Aquifer,-213000.0
+52.0,,2020,NORTH YUBA,5-021.60,Single Annual Report,Entire Basin,North Yuba Subbasin Aquifer,-28000.0
+53.0,,2020,SOUTH YUBA,5-021.61,Single Annual Report,Entire Basin,South Yuba Subbasin Aquifer,-55000.0
+54.0,,2020,CHOWCHILLA,5-022.05,Single Annual Report,Entire Basin,Combined Upper Aquifer and Undifferentiated Unconfined Zone,-59902.0
+54.0,,2020,CHOWCHILLA,5-022.05,Single Annual Report,Entire Basin,Lower Aquifer Zone - Confined,-1738.0
+54.0,,2020,CHOWCHILLA,5-022.05,Single Annual Report,Entire Basin,Lower Aquifer Zone - Unconfined,21124.0
+55.0,,2020,MADERA,5-022.06,Multiple Annual Reports,Madera Subbasin Joint GSP,Combined Upper Aquifer and Undifferentiated Unconfined Zone,-76635.0
+55.0,,2020,MADERA,5-022.06,Multiple Annual Reports,Madera Subbasin Joint GSP,Lower Aquifer Zone - Confined,-466.0
+55.0,,2020,MADERA,5-022.06,Multiple Annual Reports,Madera Subbasin Joint GSP,Lower Aquifer Zone - Unconfined,-19014.0
+56.0,,2020,OXNARD,4-004.02,Single Annual Report,Entire Basin,Fox Canyon Aquifer,185.0
+56.0,,2020,OXNARD,4-004.02,Single Annual Report,Entire Basin,Grimes Canyon Aquifer,-2.0
+56.0,,2020,OXNARD,4-004.02,Single Annual Report,Entire Basin,Hueneme Aquifer,40.0
+56.0,,2020,OXNARD,4-004.02,Single Annual Report,Entire Basin,Mugu Aquifer,173.0
+56.0,,2020,OXNARD,4-004.02,Single Annual Report,Entire Basin,Oxnard Aquifer,11103.0
+57.0,,2020,PLEASANT VALLEY,4-006,Single Annual Report,Entire Basin,Fox Canyon Aquifer,0.0
+58.0,,2020,LAS POSAS VALLEY,4-008,Single Annual Report,Entire Basin,Fox Canyon Aquifer,3218.0
+59.0,,2020,DELTA-MENDOTA,5-022.07,Single Annual Report,Entire Basin,Lower Aquifer,-29800.0
+59.0,,2020,DELTA-MENDOTA,5-022.07,Single Annual Report,Entire Basin,Upper Aquifer,16100.0
+60.0,,2020,KAWEAH,5-022.11,Single Annual Report,Entire Basin,Confined Aquifer,-13000.0
+60.0,,2020,KAWEAH,5-022.11,Single Annual Report,Entire Basin,Unconfined Aquifer,-405000.0
+61.0,,2020,MADERA,5-022.06,Multiple Annual Reports,Madera_NewStone_Adopted,Confined ,-6601.0
+62.0,,2020,KINGS,5-022.08,Single Annual Report,Entire Basin,Unconfined,-550000.0
+63.0,,2020,KERN COUNTY,5-022.14,Single Annual Report,Entire Basin,Primary Principal Aquifer,-788078.0
+64.0,,2020,TULE,5-022.13,Multiple Annual Reports,Basin 5-022.13 - ETGSA GSP,Comprehensive Calculation,-22000.0
+65.0,,2020,TULE,5-022.13,Multiple Annual Reports,Pixley ID GSA,Comprehensive,-68000.0
+66.0,,2020,TULE,5-022.13,Multiple Annual Reports,Tule Subbasin Alpaugh GSP,Comprehensive,-4000.0
+67.0,,2020,WESTSIDE,5-022.09,Single Annual Report,Entire Basin,Lower Aquifer,78000.0
+67.0,,2020,WESTSIDE,5-022.09,Single Annual Report,Entire Basin,Upper Aquifer,-9000.0
+68.0,,2020,MADERA,5-022.06,Multiple Annual Reports,Madera_RCWD_Adopted,confined,603.0
+69.0,,2020,TULE,5-022.13,Multiple Annual Reports,LTRID GSA,Comprehensive,-54000.0
+70.0,,2020,TULE,5-022.13,Multiple Annual Reports,DEID GSA,Comprehensive,-1000.0
+71.0,,2020,TULE,5-022.13,Multiple Annual Reports,Basin 5-022.13 TCWA - Tule,Comprehensive,-31000.0
+73.0,,2019,YUCAIPA,8-002.07,Single Annual Report,Entire Basin,Yucaipa Valley Subbasin,8510.0
+74.0,,2021,OXNARD,4-004.02,Single Annual Report,Entire Basin,Fox Canyon Aquifer,-63.0
+74.0,,2021,OXNARD,4-004.02,Single Annual Report,Entire Basin,Grimes Canyon Aquifer,-70.0
+74.0,,2021,OXNARD,4-004.02,Single Annual Report,Entire Basin,Hueneme Aquifer,170.0
+74.0,,2021,OXNARD,4-004.02,Single Annual Report,Entire Basin,Mugu Aquifer,-185.0
+74.0,,2021,OXNARD,4-004.02,Single Annual Report,Entire Basin,Oxnard Aquifer,6752.0
+77.0,,2021,SANTA YNEZ RIVER VALLEY,3-015,Multiple Annual Reports,Eastern Management Area,Careaga Sand,-825.0
+77.0,,2021,SANTA YNEZ RIVER VALLEY,3-015,Multiple Annual Reports,Eastern Management Area,Paso Robles Formation,-12737.0
+78.0,,2021,PLEASANT VALLEY,4-006,Single Annual Report,Entire Basin,Fox Canyon Aquifer,-166.0
+78.0,,2021,PLEASANT VALLEY,4-006,Single Annual Report,Entire Basin,Older Alluvium,-3117.0
+79.0,,2021,YOLO,5-021.67,Single Annual Report,Entire Basin,Tehama Formation,-390000.0
+80.0,,2020,YUCAIPA,8-002.07,Single Annual Report,Entire Basin,Yucaipa Valley Subbasin,3861.0
+81.0,,2021,TRACY,5-022.15,Single Annual Report,Entire Basin,Lower,-23500.0
+81.0,,2021,TRACY,5-022.15,Single Annual Report,Entire Basin,Upper ,-2500.0
+82.0,,2021,TURLOCK,5-022.03,Single Annual Report,Entire Basin,Eastern Principal Aquifer,-121900.0
+82.0,,2021,TURLOCK,5-022.03,Single Annual Report,Entire Basin,Western Lower Principal Aquifer,-68700.0
+82.0,,2021,TURLOCK,5-022.03,Single Annual Report,Entire Basin,Western Upper Principal Aquifer,-104100.0
+83.0,,2021,ANTELOPE,5-021.54,Single Annual Report,Entire Basin,Lower Aquifer,-4000.0
+83.0,,2021,ANTELOPE,5-021.54,Single Annual Report,Entire Basin,Upper Aquifer,-11000.0
+84.0,,2021,YUCAIPA,8-002.07,Single Annual Report,Entire Basin,Yucaipa Valley Subbasin,-3792.0
+85.0,,2021,TULELAKE,1-002.01,Single Annual Report,Entire Basin,Principal Aquifer,-27650.0
+86.0,,2021,EASTERN SAN JOAQUIN,5-022.01,Single Annual Report,Entire Basin,Principal Aquifer,-157000.0
+87.0,,2021,BOWMAN,5-006.01,Single Annual Report,Entire Basin,Lower Aquifer,-17000.0
+87.0,,2021,BOWMAN,5-006.01,Single Annual Report,Entire Basin,Upper Aquifer,-15000.0
+88.0,,2021,LOS MOLINOS,5-021.56,Single Annual Report,Entire Basin,Lower Aquifer,-47000.0
+88.0,,2021,LOS MOLINOS,5-021.56,Single Annual Report,Entire Basin,Upper Aquifer,-19000.0
+89.0,,2021,RED BLUFF,5-021.50,Single Annual Report,Entire Basin,Lower Aquifer,-95000.0
+89.0,,2021,RED BLUFF,5-021.50,Single Annual Report,Entire Basin,Upper Aquifer,-69000.0
+90.0,,2021,CORNING,5-021.51,Single Annual Report,Entire Basin,Single principal aquifer,-100000.0
+91.0,,2021,VINA,5-021.57,Single Annual Report,Entire Basin,Single Principal Aquifer,-93400.0
+92.0,,2021,BUTTE,5-021.70,Single Annual Report,Entire Basin,Primary Aquifer,-28000.0
+92.0,,2021,BUTTE,5-021.70,Single Annual Report,Entire Basin,Very Deep Aquifer,0.0
+93.0,,2021,WYANDOTTE CREEK,5-021.69,Single Annual Report,Entire Basin,Single Principal Aquifer,-380.0
+94.0,,2021,UKIAH VALLEY,1-052,Single Annual Report,Entire Basin,Aquifers I and II,-297.0
+95.0,,2021,TEMESCAL,8-002.09,Single Annual Report,Entire Basin,Temescal Subbain,-6517.0
+96.0,,2021,BEDFORD-COLDWATER,8-004.02,Single Annual Report,Entire Basin,Bedford-Coldwater,-2569.0
+97.0,,2021,MONTEREY,3-004.10,Single Annual Report,Entire Basin,180-Foot Aquifer,39.0
+97.0,,2021,MONTEREY,3-004.10,Single Annual Report,Entire Basin,400-Foot Aquifer,-538.0
+97.0,,2021,MONTEREY,3-004.10,Single Annual Report,Entire Basin,Deep Aquifers,-81.0
+97.0,,2021,MONTEREY,3-004.10,Single Annual Report,Entire Basin,Dune Sand Aquifer,-172.0
+97.0,,2021,MONTEREY,3-004.10,Single Annual Report,Entire Basin,El Toro Primary Aquifer System,-670.0
+98.0,,2021,NORTH SAN BENITO,3-003.05,Single Annual Report,Entire Basin,North San Benito,-48226.0
+99.0,,2021,SANTA CRUZ MID-COUNTY,3-001,Single Annual Report,Entire Basin,Aromas Red Sands,-444.0
+99.0,,2021,SANTA CRUZ MID-COUNTY,3-001,Single Annual Report,Entire Basin,Purisima A,-532.0
+99.0,,2021,SANTA CRUZ MID-COUNTY,3-001,Single Annual Report,Entire Basin,Purisima AA,-409.0
+99.0,,2021,SANTA CRUZ MID-COUNTY,3-001,Single Annual Report,Entire Basin,Purisima BC,-49.0
+99.0,,2021,SANTA CRUZ MID-COUNTY,3-001,Single Annual Report,Entire Basin,Purisima F/DEF,-550.0
+99.0,,2021,SANTA CRUZ MID-COUNTY,3-001,Single Annual Report,Entire Basin,Tu,-179.0
+100.0,,2021,BIG VALLEY,5-015,Single Annual Report,Entire Basin,Principal Aquifer,-6900.0
+101.0,,2021,BIG VALLEY,5-004,Single Annual Report,Entire Basin,Big Valley Groundwater Basin,-30000.0
+102.0,,2021,BUTTE VALLEY,1-003,Single Annual Report,Entire Basin,Butte Valley Groundwater Basin,-118000.0
+103.0,,2021,SCOTT RIVER VALLEY,1-005,Single Annual Report,Entire Basin,Scott Valley Aquifer,-10000.0
+104.0,,2021,SHASTA VALLEY,1-004,Single Annual Report,Entire Basin,Shasta Valley Principal Aquifer,-97856.0
+105.0,,2021,SAN GORGONIO PASS,7-021.04,Single Annual Report,Entire Basin,Assumed Unconfined,-6267.0
+106.0,,2021,LAS POSAS VALLEY,4-008,Single Annual Report,Entire Basin,Fox Canyon Aquifer,-15331.0
+107.0,,2021,CUYAMA VALLEY,3-013,Single Annual Report,Entire Basin,Principal Aquifer,-40000.0
+108.0,,2021,MERCED,5-022.04,Single Annual Report,Entire Basin,Above Corcoran Clay,-93267.0
+108.0,,2021,MERCED,5-022.04,Single Annual Report,Entire Basin,Below Corcoran Clay,-53043.0
+108.0,,2021,MERCED,5-022.04,Single Annual Report,Entire Basin,Outside Corcoran Clay,-172570.0
+109.0,,2021,COSUMNES,5-022.16,Single Annual Report,Entire Basin,Principle Aquifer,-66100.0
+110.0,,2021,SAN JACINTO,8-005,Single Annual Report,Entire Basin,SJGB Principal Aquifer,200.0
+111.0,,2021,SAN ANTONIO CREEK VALLEY,3-014,Single Annual Report,Entire Basin,Careaga Sand,-540.0
+111.0,,2021,SAN ANTONIO CREEK VALLEY,3-014,Single Annual Report,Entire Basin,Paso Robles Formation,-20500.0
+112.0,,2021,ATASCADERO AREA,3-004.11,Single Annual Report,Entire Basin,Paso Robles Formation Aquifer,-5200.0
+113.0,,2021,DELTA-MENDOTA,5-022.07,Single Annual Report,Entire Basin,Lower Aquifer,-69100.0
+113.0,,2021,DELTA-MENDOTA,5-022.07,Single Annual Report,Entire Basin,Upper Aquifer,-220600.0
+114.0,,2021,SANTA MONICA,4-011.01,Single Annual Report,Entire Basin,Ballona Aquifer,50.0
+114.0,,2021,SANTA MONICA,4-011.01,Single Annual Report,Entire Basin,Silverado Aquifer,-20.0
+115.0,,2021,MODESTO,5-022.02,Single Annual Report,Entire Basin,Eastern Principal Aquifer,-99200.0
+115.0,,2021,MODESTO,5-022.02,Single Annual Report,Entire Basin,Western Lower Principal Aquifer,-16600.0
+115.0,,2021,MODESTO,5-022.02,Single Annual Report,Entire Basin,Western Upper Principal Aquifer,-16700.0
+116.0,,2021,FILLMORE,4-004.05,Single Annual Report,Entire Basin,Fillmore Subbasin Aquifer,-14100.0
+117.0,,2021,EAST BAY PLAIN,2-009.04,Single Annual Report,Entire Basin,Deep Aquifer,-1.0
+117.0,,2021,EAST BAY PLAIN,2-009.04,Single Annual Report,Entire Basin,Intermediate Aquifer,-116.0
+117.0,,2021,EAST BAY PLAIN,2-009.04,Single Annual Report,Entire Basin,Lower Shallow Aquifer,-305.0
+117.0,,2021,EAST BAY PLAIN,2-009.04,Single Annual Report,Entire Basin,Upper Shallow Aquifer,-1096.0
+118.0,,2021,SANTA MARGARITA,3-027,Single Annual Report,Entire Basin,Butano,-1028.0
+118.0,,2021,SANTA MARGARITA,3-027,Single Annual Report,Entire Basin,Lompico,-1015.0
+118.0,,2021,SANTA MARGARITA,3-027,Single Annual Report,Entire Basin,Monterey,-649.0
+118.0,,2021,SANTA MARGARITA,3-027,Single Annual Report,Entire Basin,Santa Margarita,-2347.0
+119.0,,2020,UPPER VENTURA RIVER,4-003.01,Single Annual Report,Entire Basin,Alluvial Aquifer,-2564.0
+120.0,,2021,UPPER VENTURA RIVER,4-003.01,Single Annual Report,Entire Basin,Alluvial Aquifer,-8240.0
+121.0,,2020,MOUND,4-004.03,Single Annual Report,Entire Basin,Hueneme,926.0
+121.0,,2020,MOUND,4-004.03,Single Annual Report,Entire Basin,Mugu,24.0
+122.0,,2021,180/400 FOOT AQUIFER,3-004.01,Single Annual Report,Entire Basin,180-Foot Aquifer,-3000.0
+122.0,,2021,180/400 FOOT AQUIFER,3-004.01,Single Annual Report,Entire Basin,400-Foot Aquifer,-10900.0
+123.0,,2021,MOUND,4-004.03,Single Annual Report,Entire Basin,Hueneme,275.0
+123.0,,2021,MOUND,4-004.03,Single Annual Report,Entire Basin,Mugu,2.0
+124.0,,2021,SANTA YNEZ RIVER VALLEY,3-015,Multiple Annual Reports,Western Management Area ,WMA Lower Aquifer,-8930.0
+124.0,,2021,SANTA YNEZ RIVER VALLEY,3-015,Multiple Annual Reports,Western Management Area ,WMA Upper Aquifer,1120.0
+125.0,,2021,SANTA YNEZ RIVER VALLEY,3-015,Multiple Annual Reports,Central Management Area,CMA Buellton Aquifer,-210.0
+126.0,,2021,SAN LUIS OBISPO VALLEY,3-009,Single Annual Report,Entire Basin,San Luis Obispo Basin Aquifer,-5530.0
+127.0,,2021,CASTAC LAKE VALLEY,5-029,Single Annual Report,Entire Basin,Principal Aquifer,-1907.0
+128.0,,2021,FOREBAY AQUIFER,3-004.04,Single Annual Report,Entire Basin,Basin Fill Aquifer,-11700.0
+129.0,,2021,LANGLEY AREA,3-004.09,Single Annual Report,Entire Basin,Aromas Sands in Langley Area,-350.0
+130.0,,2021,UPPER VALLEY AQUIFER,3-004.05,Single Annual Report,Entire Basin,Paso Robles Formation in the Upper Valley Subbasin,-4900.0
+131.0,,2021,EAST SIDE AQUIFER,3-004.02,Single Annual Report,Entire Basin,Eastside Aquifer,-3800.0
+132.0,,2021,UPPER SAN LUIS REY VALLEY,9-007.01,Single Annual Report,Entire Basin,USLR,5382.0
+133.0,,2021,CHOWCHILLA,5-022.05,Single Annual Report,Entire Basin,Combined Lower Aquifer and Undifferentiated Unconfined Zone,-76991.0
+133.0,,2021,CHOWCHILLA,5-022.05,Single Annual Report,Entire Basin,Upper Aquifer Zone,-27431.0
+134.0,,2021,MADERA,5-022.06,Multiple Annual Reports,Madera Subbasin Joint GSP,Combined Upper Aquifer and Undifferentiated Unconfined Zone,-107145.0
+134.0,,2021,MADERA,5-022.06,Multiple Annual Reports,Madera Subbasin Joint GSP,Lower Aquifer Zone,-5120.0
+135.0,,2021,COLUSA,5-021.52,Single Annual Report,Entire Basin,Primary Aquifer,-418000.0
+136.0,,2021,SOUTH AMERICAN,5-021.65,Single Annual Report,Entire Basin,Principal Aquifer,-53600.0
+137.0,,2021,EAST CONTRA COSTA,5-022.19,Single Annual Report,Entire Basin,Deep Zone,5000.0
+137.0,,2021,EAST CONTRA COSTA,5-022.19,Single Annual Report,Entire Basin,Shallow Zone,-15300.0
+138.0,,2021,PASO ROBLES AREA,3-004.06,Single Annual Report,Entire Basin,Paso Robles Formation Aquifer,-41500.0
+140.0,,2021,SAN PASQUAL VALLEY,9-010,Single Annual Report,Entire Basin,Principal Aquifer,-409.0
+141.0,,2021,ANDERSON,5-006.03,Single Annual Report,Entire Basin,Principal Aquifer,861.0
+142.0,,2021,ENTERPRISE,5-006.04,Single Annual Report,Entire Basin,Principal Aquifer,-4178.0
+143.0,,2020,BIG VALLEY,5-004,Single Annual Report,Entire Basin,Big Valley Groundwater Basin,-27000.0
+144.0,,2019,BIG VALLEY,5-004,Single Annual Report,Entire Basin,Big Valley Groundwater Basin,12000.0
+145.0,,2021,SANTA CLARA RIVER VALLEY EAST,4-004.07,Single Annual Report,Entire Basin,Alluvial Aquifer,-11929.0
+145.0,,2021,SANTA CLARA RIVER VALLEY EAST,4-004.07,Single Annual Report,Entire Basin,Saugus Formation,-13588.0
+146.0,,2021,KERN COUNTY,5-022.14,Single Annual Report,Entire Basin,Principal Aquifer: Kern County Subbasin,-1812210.0
+147.0,,2021,NORTH YUBA,5-021.60,Single Annual Report,Entire Basin,North Yuba Subbasin Aquifer,-8000.0
+148.0,,2021,SOUTH YUBA,5-021.61,Single Annual Report,Entire Basin,South Yuba Subbasin Aquifer,-81000.0
+149.0,,2021,NORTH AMERICAN,5-021.64,Single Annual Report,Entire Basin,Principal Aquifer,-110500.0
+150.0,,2021,TULARE LAKE,5-022.12,Single Annual Report,Entire Basin,A Zone,-3220.0
+150.0,,2021,TULARE LAKE,5-022.12,Single Annual Report,Entire Basin,B Zone,-29637.0
+150.0,,2021,TULARE LAKE,5-022.12,Single Annual Report,Entire Basin,C Zone,-110232.0
+151.0,,2021,PIRU,4-004.06,Single Annual Report,Entire Basin,Piru Subbasin Aquifer,-38500.0
+152.0,,2021,NAPA VALLEY,2-002.01,Single Annual Report,Entire Basin,Quaternary Alluvium,-14150.0
+153.0,,2021,SUTTER,5-021.62,Single Annual Report,Entire Basin,Principal Aquifer,-103000.0
+154.0,,2021,ELSINORE VALLEY,8-004.01,Single Annual Report,Entire Basin,Deep Semiconfined,2549.0
+154.0,,2021,ELSINORE VALLEY,8-004.01,Single Annual Report,Entire Basin,Shallow Unconfined,114.0
+155.0,,2021,KINGS,5-022.08,Single Annual Report,Entire Basin,Unconfined,-890000.0
+156.0,,2021,WESTSIDE,5-022.09,Single Annual Report,Entire Basin,Lower Aquifer,-110000.0
+156.0,,2021,WESTSIDE,5-022.09,Single Annual Report,Entire Basin,Upper Aquifer,-2000.0
+157.0,,2021,PETALUMA VALLEY,2-001,Single Annual Report,Entire Basin,Principal Aquifer,982.0
+158.0,,2021,WHITE WOLF,5-022.18,Single Annual Report,Entire Basin,Principal Aquifer,-38600.0
+159.0,,2021,SOLANO,5-021.66,Single Annual Report,Entire Basin,Alluvial/Upper Tehama Zone,-99374.0
+159.0,,2021,SOLANO,5-021.66,Single Annual Report,Entire Basin,Basal Tehama,-30.0
+160.0,,2021,INDIAN WELLS VALLEY,6-054,Single Annual Report,Entire Basin,Indian Wells Valley Groundwater Basin,0.0
+161.0,,2021,SIERRA VALLEY,5-012.01,Single Annual Report,Entire Basin,Sierra Valley Aquifer,-7600.0
+162.0,,2021,SONOMA VALLEY,2-002.02,Single Annual Report,Entire Basin,Deep Aquifer System,-30.0
+162.0,,2021,SONOMA VALLEY,2-002.02,Single Annual Report,Entire Basin,Shallow Aquifer System,-133.0
+163.0,,2021,MADERA,5-022.06,Multiple Annual Reports,Madera_NewStone_Adopted,Confined,-3129.0
+164.0,,2021,TULE,5-022.13,Multiple Annual Reports,Pixley ID GSA,Upper,-29000.0
+165.0,,2021,TULE,5-022.13,Multiple Annual Reports,LTRID GSA,Upper Aquifer,-82000.0
+166.0,,2021,TULE,5-022.13,Multiple Annual Reports,Tule Subbasin Alpaugh GSP,Upper Aquifer,-6000.0
+167.0,,2021,TULE,5-022.13,Multiple Annual Reports,Basin 5-022.13 TCWA - Tule,Upper Aquifer,-21000.0
+168.0,,2021,TULE,5-022.13,Multiple Annual Reports,DEID GSA,Upper Aquifer,-118000.0
+169.0,,2021,SANTA ROSA PLAIN,1-055.01,Single Annual Report,Entire Basin,Deep Aquifer System,-4.0
+169.0,,2021,SANTA ROSA PLAIN,1-055.01,Single Annual Report,Entire Basin,Shallow Aquifer System,-4153.0
+170.0,,2021,TULE,5-022.13,Multiple Annual Reports,Basin 5-022.13 - ETGSA GSP,Upper,-87000.0
+171.0,,2021,KAWEAH,5-022.11,Single Annual Report,Entire Basin,Confined Aquifer,-14000.0
+171.0,,2021,KAWEAH,5-022.11,Single Annual Report,Entire Basin,Unconfined Aquifer,-506000.0
+172.0,,2021,OJAI VALLEY,4-002,Single Annual Report,Entire Basin,Primary production aquifer,-5950.0
+173.0,,2021,MADERA,5-022.06,Multiple Annual Reports,Madera_RCWD_Adopted,unconfined,2231.0
+174.0,,2021,EEL RIVER VALLEY,1-010,Single Annual Report,Entire Basin,Eel River Valley Alluvial Aquifer,2777.0
+175.0,,2021,MADERA,5-022.06,Multiple Annual Reports,Madera Basin - GFWD GSA,Consolidated Aquifer,-23.0
+176.0,,2022,BUTTE VALLEY,1-003,Single Annual Report,Entire Basin,Butte Valley,-11334.0
+177.0,,2022,SHASTA VALLEY,1-004,Single Annual Report,Entire Basin,Shasta Valley,-84288.0
+178.0,,2022,SCOTT RIVER VALLEY,1-005,Single Annual Report,Entire Basin,Scott Valley Aquifer,0.0
+179.0,,2022,NORTH SAN BENITO,3-003.05,Single Annual Report,Entire Basin,North San Benito ,-71765.0
+180.0,,2022,MERCED,5-022.04,Single Annual Report,Entire Basin,Above Corcoran Clay,-52332.0
+180.0,,2022,MERCED,5-022.04,Single Annual Report,Entire Basin,Below Corcoran Clay,-50759.0
+180.0,,2022,MERCED,5-022.04,Single Annual Report,Entire Basin,Outside Corcoran Clay,-158895.0
+182.0,,2022,ATASCADERO AREA,3-004.11,Single Annual Report,Entire Basin,Paso Robles Formation Aquifer,-8000.0
+183.0,,2022,SANTA CLARA RIVER VALLEY EAST,4-004.07,Single Annual Report,Entire Basin,Alluvial Aquifer,-3408.0
+183.0,,2022,SANTA CLARA RIVER VALLEY EAST,4-004.07,Single Annual Report,Entire Basin,Saugus Formation,-6798.0
+184.0,,2022,INDIAN WELLS VALLEY,6-054,Single Annual Report,Entire Basin,El Paso,2390.0
+184.0,,2022,INDIAN WELLS VALLEY,6-054,Single Annual Report,Entire Basin,Main Basin,-15880.0
+185.0,,2022,SAN ANTONIO CREEK VALLEY,3-014,Single Annual Report,Entire Basin,Careaga Sand,-200.0
+185.0,,2022,SAN ANTONIO CREEK VALLEY,3-014,Single Annual Report,Entire Basin,Paso Robles Formation,-14900.0
+186.0,,2022,180/400 FOOT AQUIFER,3-004.01,Single Annual Report,Entire Basin,180-Foot Aquifer,-2200.0
+186.0,,2022,180/400 FOOT AQUIFER,3-004.01,Single Annual Report,Entire Basin,400-Foot Aquifer,-10400.0
+187.0,,2022,EAST SIDE AQUIFER,3-004.02,Single Annual Report,Entire Basin,Eastside Aquifer,-17800.0
+188.0,,2022,FOREBAY AQUIFER,3-004.04,Single Annual Report,Entire Basin,Basin Fill Aquifer,-69400.0
+189.0,,2022,UPPER VALLEY AQUIFER,3-004.05,Single Annual Report,Entire Basin,Upper Valley Aquifer,-26100.0
+190.0,,2022,LANGLEY AREA,3-004.09,Single Annual Report,Entire Basin,Aromas Sands in Langley Area,4900.0
+191.0,,2022,MODESTO,5-022.02,Single Annual Report,Entire Basin,Eastern Principal Aquifer,-124200.0
+191.0,,2022,MODESTO,5-022.02,Single Annual Report,Entire Basin,Western Lower Principal Aquifer,-27300.0
+191.0,,2022,MODESTO,5-022.02,Single Annual Report,Entire Basin,Western Upper Principal Aquifer,-20800.0
+192.0,,2022,COLUSA,5-021.52,Single Annual Report,Entire Basin,Primary Aquifer,-377170.0
+193.0,,2022,CHOWCHILLA,5-022.05,Single Annual Report,Entire Basin,Combined Lower Aquifer and Undifferentiated Unconfined Zone,-56235.0
+193.0,,2022,CHOWCHILLA,5-022.05,Single Annual Report,Entire Basin,Upper Aquifer,-93389.0
+194.0,,2022,YUCAIPA,8-002.07,Single Annual Report,Entire Basin,Yucaipa Subbasin,-4558.0
+195.0,,2022,BIG VALLEY,5-004,Single Annual Report,Entire Basin,Big Valley Principal Aquifer,-2763.0
+196.0,,2022,MADERA,5-022.06,Multiple Annual Reports,Madera Basin - GFWD GSA,Consolidated Aquifer,-21.0
+197.0,,2022,NORTH YUBA,5-021.60,Single Annual Report,Entire Basin,North Yuba Subbasin Aquifer,-7000.0
+198.0,,2022,SOUTH YUBA,5-021.61,Single Annual Report,Entire Basin,South Yuba Subbasin Aquifer,-10000.0
+199.0,,2022,PASO ROBLES AREA,3-004.06,Single Annual Report,Entire Basin,Paso Robles Formation Aquifer,-117100.0
+200.0,,2022,SANTA CRUZ MID-COUNTY,3-001,Single Annual Report,Entire Basin,Aromas Red Sands,-111.0
+200.0,,2022,SANTA CRUZ MID-COUNTY,3-001,Single Annual Report,Entire Basin,Purisima A,132.0
+200.0,,2022,SANTA CRUZ MID-COUNTY,3-001,Single Annual Report,Entire Basin,Purisima AA,152.0
+200.0,,2022,SANTA CRUZ MID-COUNTY,3-001,Single Annual Report,Entire Basin,Purisima BC,5.0
+200.0,,2022,SANTA CRUZ MID-COUNTY,3-001,Single Annual Report,Entire Basin,Purisima F/DEF,-361.0
+200.0,,2022,SANTA CRUZ MID-COUNTY,3-001,Single Annual Report,Entire Basin,Tu,486.0
+201.0,,2022,ANDERSON,5-006.03,Single Annual Report,Entire Basin,Principal Aquifer,-3158.0
+202.0,,2022,ENTERPRISE,5-006.04,Single Annual Report,Entire Basin,Principal Aquifer,-254.0
+203.0,,2022,EASTERN SAN JOAQUIN,5-022.01,Single Annual Report,Entire Basin,Principal Aquifer,-122000.0
+204.0,,2022,DELTA-MENDOTA,5-022.07,Single Annual Report,Entire Basin,Lower Aquifer,-71700.0
+204.0,,2022,DELTA-MENDOTA,5-022.07,Single Annual Report,Entire Basin,Upper Aquifer,-387300.0
+205.0,,2022,SAN LUIS OBISPO VALLEY,3-009,Single Annual Report,Entire Basin,San Luis Obispo Basin Aquifer,-2092.0
+206.0,,2022,EAST BAY PLAIN,2-009.04,Single Annual Report,Entire Basin,Deep Aquifer,0.0
+206.0,,2022,EAST BAY PLAIN,2-009.04,Single Annual Report,Entire Basin,Intermediate Aquifer,0.0
+206.0,,2022,EAST BAY PLAIN,2-009.04,Single Annual Report,Entire Basin,Lower Shallow Aquifer,-30.0
+206.0,,2022,EAST BAY PLAIN,2-009.04,Single Annual Report,Entire Basin,Upper Shallow Aquifer,70.0
+207.0,,2022,BOWMAN,5-006.01,Single Annual Report,Entire Basin,Lower Aquifer,-11000.0
+207.0,,2022,BOWMAN,5-006.01,Single Annual Report,Entire Basin,Upper Aquifer,-6000.0
+208.0,,2022,RED BLUFF,5-021.50,Single Annual Report,Entire Basin,Lower Aquifer,-52000.0
+208.0,,2022,RED BLUFF,5-021.50,Single Annual Report,Entire Basin,Upper Aquifer,-35000.0
+209.0,,2022,CORNING,5-021.51,Single Annual Report,Entire Basin,Principal Aquifer,-90000.0
+210.0,,2022,ANTELOPE,5-021.54,Single Annual Report,Entire Basin,Lower Aquifer,-2000.0
+210.0,,2022,ANTELOPE,5-021.54,Single Annual Report,Entire Basin,Upper Aquifer,-3000.0
+211.0,,2022,LOS MOLINOS,5-021.56,Single Annual Report,Entire Basin,Lower Aquifer,-2000.0
+211.0,,2022,LOS MOLINOS,5-021.56,Single Annual Report,Entire Basin,Upper Aquifer,-12000.0
+212.0,,2022,MONTEREY,3-004.10,Single Annual Report,Entire Basin,180-Foot Aquifer,-130.0
+212.0,,2022,MONTEREY,3-004.10,Single Annual Report,Entire Basin,400-Foot Aquifer,-1.0
+212.0,,2022,MONTEREY,3-004.10,Single Annual Report,Entire Basin,Deep Aquifers,-17.0
+212.0,,2022,MONTEREY,3-004.10,Single Annual Report,Entire Basin,Dune Sand Aquifer,16.0
+212.0,,2022,MONTEREY,3-004.10,Single Annual Report,Entire Basin,El Toro Primary Aquifer System,-800.0
+213.0,,2022,SANTA YNEZ RIVER VALLEY,3-015,Multiple Annual Reports,Western Management Area ,Lower Aquifer,5200.0
+213.0,,2022,SANTA YNEZ RIVER VALLEY,3-015,Multiple Annual Reports,Western Management Area ,Upper Aquifer,-1400.0
+214.0,,2022,SANTA YNEZ RIVER VALLEY,3-015,Multiple Annual Reports,Central Management Area,CMA Buellton Aquifer,-1000.0
+215.0,,2022,FILLMORE,4-004.05,Single Annual Report,Entire Basin,Fillmore Subbasin Aquifer,-6162.0
+216.0,,2022,BIG VALLEY,5-015,Single Annual Report,Entire Basin,Principal Aquifer ,2700.0
+217.0,,2022,PIRU,4-004.06,Single Annual Report,Entire Basin,Piru Subbasin Aquifer,-7758.0
+218.0,,2022,SIERRA VALLEY,5-012.01,Single Annual Report,Entire Basin,Lower Aquifer,-2204.0
+218.0,,2022,SIERRA VALLEY,5-012.01,Single Annual Report,Entire Basin,Upper Aquifer,-6613.0
+219.0,,2022,NORTH AMERICAN,5-021.64,Single Annual Report,Entire Basin,Principal Aquifer,-8600.0
+220.0,,2022,TEMESCAL,8-002.09,Single Annual Report,Entire Basin,Temescal Subasin,-4355.0
+221.0,,2022,BEDFORD-COLDWATER,8-004.02,Single Annual Report,Entire Basin,Bedford Management Area,-519.0
+221.0,,2022,BEDFORD-COLDWATER,8-004.02,Single Annual Report,Entire Basin,Coldwater Management Area,-416.0
+222.0,,2022,MOUND,4-004.03,Single Annual Report,Entire Basin,Hueneme Aquifer,720.0
+222.0,,2022,MOUND,4-004.03,Single Annual Report,Entire Basin,Mugu Aquifer,37.0
+223.0,,2022,SAN GORGONIO PASS,7-021.04,Single Annual Report,Entire Basin,7-021.04,-9838.0
+224.0,,2022,SOUTH AMERICAN,5-021.65,Single Annual Report,Entire Basin,Principal Aquifer,-1100.0
+225.0,,2022,TURLOCK,5-022.03,Single Annual Report,Entire Basin,Eastern Principal Aquifer,-96100.0
+225.0,,2022,TURLOCK,5-022.03,Single Annual Report,Entire Basin,Western Lower Principal Aquifer,-102400.0
+225.0,,2022,TURLOCK,5-022.03,Single Annual Report,Entire Basin,Western Upper Principal Aquifer,-76100.0
+226.0,,2022,PETALUMA VALLEY,2-001,Single Annual Report,Entire Basin,Principal Aquifer,-4000.0
+227.0,,2022,SUTTER,5-021.62,Single Annual Report,Entire Basin,Principal Aquifer,-45000.0
+228.0,,2022,UKIAH VALLEY,1-052,Single Annual Report,Entire Basin,Aquifers I and II,900.0
+230.0,,2022,TRACY,5-022.15,Single Annual Report,Entire Basin,Lower,-6500.0
+230.0,,2022,TRACY,5-022.15,Single Annual Report,Entire Basin,Upper,-8800.0
+231.0,,2022,YOLO,5-021.67,Single Annual Report,Entire Basin,Tehama Formation,-192260.0
+233.0,,2022,WESTSIDE,5-022.09,Single Annual Report,Entire Basin,Lower Aquifer,-100000.0
+233.0,,2022,WESTSIDE,5-022.09,Single Annual Report,Entire Basin,Upper Aquifer,10000.0
+234.0,,2022,SONOMA VALLEY,2-002.02,Single Annual Report,Entire Basin,Deep Aquifer System,-10.0
+234.0,,2022,SONOMA VALLEY,2-002.02,Single Annual Report,Entire Basin,Shallow Aquifer System,-480.0
+235.0,,2022,SANTA ROSA PLAIN,1-055.01,Single Annual Report,Entire Basin,Deep Aquifer System,0.0
+235.0,,2022,SANTA ROSA PLAIN,1-055.01,Single Annual Report,Entire Basin,Shallow Aquifer System,-400.0
+236.0,,2022,MADERA,5-022.06,Multiple Annual Reports,Madera_RCWD_Adopted,unconfined,-4500.0
+237.0,,2022,SAN GABRIEL VALLEY,4-013,Single Annual Report,Entire Basin,Spadra Basin (one primary aquifer),420.0
+238.0,,2022,UPPER VENTURA RIVER,4-003.01,Single Annual Report,Entire Basin,Alluvial Aquifer,848.0
+239.0,,2022,OXNARD,4-004.02,Single Annual Report,Entire Basin,Fox Canyon Aquifer,-630.0
+239.0,,2022,OXNARD,4-004.02,Single Annual Report,Entire Basin,Grimes Canyon Aquifer,-210.0
+239.0,,2022,OXNARD,4-004.02,Single Annual Report,Entire Basin,Hueneme Aquifer,-270.0
+239.0,,2022,OXNARD,4-004.02,Single Annual Report,Entire Basin,Mugu Aquifer,-520.0
+239.0,,2022,OXNARD,4-004.02,Single Annual Report,Entire Basin,Oxnard Aquifer,-5300.0
+240.0,,2022,PLEASANT VALLEY,4-006,Single Annual Report,Entire Basin,Fox Canyon Aquifer,-73.0
+240.0,,2022,PLEASANT VALLEY,4-006,Single Annual Report,Entire Basin,Older Alluvium,-2039.0
+241.0,,2022,LAS POSAS VALLEY,4-008,Single Annual Report,Entire Basin,Fox Canyon Aquifer,-5076.0
+242.0,,2022,ELSINORE VALLEY,8-004.01,Single Annual Report,Entire Basin,Deep Semiconfined,474.0
+242.0,,2022,ELSINORE VALLEY,8-004.01,Single Annual Report,Entire Basin,Shallow Unconfined,-376.0
+243.0,,2022,NAPA VALLEY,2-002.01,Single Annual Report,Entire Basin,Quaternary Alluvium,11910.0
+244.0,,2022,BUTTE,5-021.70,Single Annual Report,Entire Basin,Primary Aquifer,-37500.0
+244.0,,2022,BUTTE,5-021.70,Single Annual Report,Entire Basin,Very Deep Aquifer,-9.0
+245.0,,2022,VINA,5-021.57,Single Annual Report,Entire Basin,Single Principal Aquifer,-90700.0
+246.0,,2022,WYANDOTTE CREEK,5-021.69,Single Annual Report,Entire Basin,Single Principal Aquifer,-13200.0
+247.0,,2022,BEAR VALLEY,8-009,Single Annual Report,Entire Basin,Primary Alluvial Aquifer,1345.0
+248.0,,2022,TULELAKE,1-002.01,Single Annual Report,Entire Basin,Tulelake,-14400.0
+249.0,,2022,KINGS,5-022.08,Single Annual Report,Entire Basin,unconfined,-680000.0
+250.0,,2022,SANTA MARGARITA,3-027,Single Annual Report,Entire Basin,Butano,230.0
+250.0,,2022,SANTA MARGARITA,3-027,Single Annual Report,Entire Basin,Lompico,20.0
+250.0,,2022,SANTA MARGARITA,3-027,Single Annual Report,Entire Basin,Monterey,200.0
+250.0,,2022,SANTA MARGARITA,3-027,Single Annual Report,Entire Basin,Santa Margarita,640.0
+251.0,,2022,SOLANO,5-021.66,Single Annual Report,Entire Basin,Alluvial/Upper Tehama Zone,42638.0
+251.0,,2022,SOLANO,5-021.66,Single Annual Report,Entire Basin,Basal Tehama,-82.0
+252.0,,2022,SANTA MONICA,4-011.01,Single Annual Report,Entire Basin,Ballona Aquifer,250.0
+252.0,,2022,SANTA MONICA,4-011.01,Single Annual Report,Entire Basin,Silverado Aquifer,50.0
+253.0,,2022,EAST CONTRA COSTA,5-022.19,Single Annual Report,Entire Basin,Deep Zone,0.0
+253.0,,2022,EAST CONTRA COSTA,5-022.19,Single Annual Report,Entire Basin,Shallow Zone,-9700.0
+254.0,,2022,COSUMNES,5-022.16,Single Annual Report,Entire Basin,Principal Aquifer,-27000.0
+255.0,,2022,TULARE LAKE,5-022.12,Single Annual Report,Entire Basin,A-zone,-11020.0
+255.0,,2022,TULARE LAKE,5-022.12,Single Annual Report,Entire Basin,B-zone,-36944.0
+255.0,,2022,TULARE LAKE,5-022.12,Single Annual Report,Entire Basin,C-zone,-67795.0
+256.0,,2022,UPPER SAN LUIS REY VALLEY,9-007.01,Single Annual Report,Entire Basin,Upper San Luis Rey Subbasin,-575.0
+257.0,,2022,KAWEAH,5-022.11,Single Annual Report,Entire Basin,Confined Aquifer,-17000.0
+257.0,,2022,KAWEAH,5-022.11,Single Annual Report,Entire Basin,Unconfined Aquifer,-342000.0
+258.0,,2022,TULE,5-022.13,Multiple Annual Reports,Tule Subbasin Alpaugh GSP,Upper Aquifer,-4000.0
+259.0,,2022,CASTAC LAKE VALLEY,5-029,Single Annual Report,Entire Basin,Castac Basin principal aquifer,-210.0
+260.0,,2022,OJAI VALLEY,4-002,Single Annual Report,Entire Basin,Primary production aquifer,934.0
+261.0,,2022,CUYAMA VALLEY,3-013,Single Annual Report,Entire Basin,Principal Aquifer,-38500.0
+262.0,,2022,MADERA,5-022.06,Multiple Annual Reports,Madera Subbasin Joint GSP,Combined Upper Aquifer and Undifferentiated Unconfined Zone,-178942.0
+262.0,,2022,MADERA,5-022.06,Multiple Annual Reports,Madera Subbasin Joint GSP,Lower Aquifer Zone,-7313.0
+263.0,,2022,TULE,5-022.13,Multiple Annual Reports,Pixley ID GSA,Upper Aquifer,-34000.0
+264.0,,2022,TULE,5-022.13,Multiple Annual Reports,LTRID GSA,Upper Aquifer,-57000.0
+265.0,,2022,SAN PASQUAL VALLEY,9-010,Single Annual Report,Entire Basin,Principal Aquifer,-1804.0
+266.0,,2022,TULE,5-022.13,Multiple Annual Reports,DEID GSA,Upper Aquifer,-20000.0
+267.0,,2022,TULE,5-022.13,Multiple Annual Reports,Basin 5-022.13 TCWA - Tule,Upper Aquifer,-13000.0
+268.0,,2022,TULE,5-022.13,Multiple Annual Reports,Basin 5-022.13 - ETGSA GSP,Upper Aquifer,-39000.0
+269.0,,2022,MADERA,5-022.06,Multiple Annual Reports,Madera_NewStone_Adopted,unconfined,-3129.0
+270.0,,2022,KERN COUNTY,5-022.14,Single Annual Report,Entire Basin,Kern County Subbasin,-1740470.0
+271.0,,2022,WHITE WOLF,5-022.18,Single Annual Report,Entire Basin,Principal Aquifer,-44300.0
+272.0,,2022,SAN JACINTO,8-005,Single Annual Report,Entire Basin,SJGB Principal Aquifer,300.0
+273.0,,2022,EEL RIVER VALLEY,1-010,Single Annual Report,Entire Basin,Alluvial Aquifer,527.0
+274.0,,2022,SANTA YNEZ RIVER VALLEY,3-015,Multiple Annual Reports,Eastern Management Area,Careaga Sand,-495.0
+274.0,,2022,SANTA YNEZ RIVER VALLEY,3-015,Multiple Annual Reports,Eastern Management Area,Paso Robles Formation,-10983.0
+277.0,,2022,PLEASANT VALLEY,5-022.10,Single Annual Report,Entire Basin,confinded,35.0
+,47.0,2021,BORREGO SPRINGS,7-024.01,Single Annual Report,Entire Basin,Borrego Springs Subbasin,-5040.0
+,51.0,2021,COASTAL PLAIN OF ORANGE COUNTY,8-001,Single Annual Report,Entire Basin,"Combined Shallow, Principal and Deep Aquifers",-49120.0
+,52.0,2021,PAJARO VALLEY,3-002.01,Single Annual Report,Entire Basin,Aromas Red Sands,-9424.0
+,53.0,2021,MISSION CREEK,7-021.02,Single Annual Report,Entire Basin,Mission Creek Subbasin Main Aquifer,-6516.0
+,54.0,2021,INDIO,7-021.01,Single Annual Report,Entire Basin,Indio Subbasin,5954.0
+,55.0,2021,LIVERMORE VALLEY,2-010,Single Annual Report,Entire Basin,Main Basin,-17400.0
+,56.0,2021,SANTA CLARA,2-009.02,Single Annual Report,Entire Basin,Santa Clara Subbasin,-27400.0
+,57.0,2021,TAHOE SOUTH,6-005.01,Single Annual Report,Entire Basin,Basin-Fill Aquifer,-4127.0
+,58.0,2021,NILES CONE,2-009.01,Single Annual Report,Entire Basin,AHF Aquifer,-2770.0
+,58.0,2021,NILES CONE,2-009.01,Single Annual Report,Entire Basin,Centerville Aquifer,-87.0
+,58.0,2021,NILES CONE,2-009.01,Single Annual Report,Entire Basin,Deep Aquifer,-60.0
+,58.0,2021,NILES CONE,2-009.01,Single Annual Report,Entire Basin,Fremont Aquifer,-2.0
+,58.0,2021,NILES CONE,2-009.01,Single Annual Report,Entire Basin,Newark Aquifer,-4104.0
+,59.0,2021,LLAGAS AREA,3-003.01,Single Annual Report,Entire Basin,Llagas Subbasin,-4200.0
+,60.0,2022,SANTA CLARA,2-009.02,Single Annual Report,Entire Basin,Santa Clara Subbasin,2500.0
+,61.0,2022,LLAGAS AREA,3-003.01,Single Annual Report,Entire Basin,Llagas Subbasin,-300.0
+,62.0,2022,MISSION CREEK,7-021.02,Single Annual Report,Entire Basin,Principal Aquifer,-6013.0
+,63.0,2022,INDIO,7-021.01,Single Annual Report,Entire Basin,Indio Subbasin,-76786.0
+,64.0,2022,COASTAL PLAIN OF ORANGE COUNTY,8-001,Single Annual Report,Entire Basin,Basin 8-1 Aquifer,-3454.0
+,65.0,2022,PAJARO VALLEY,3-002.01,Single Annual Report,Entire Basin,Aromas Red Sands,1182.0
+,66.0,2022,BORREGO SPRINGS,7-024.01,Single Annual Report,Entire Basin,Borrego Springs Subbasin,-5965.0
+,67.0,2022,LIVERMORE VALLEY,2-010,Single Annual Report,Entire Basin,Main Basin,-6622.0
+,68.0,2022,NILES CONE,2-009.01,Single Annual Report,Entire Basin,AHF Aquifer,-558.0
+,68.0,2022,NILES CONE,2-009.01,Single Annual Report,Entire Basin,Centerville Aquifer,-48.0
+,68.0,2022,NILES CONE,2-009.01,Single Annual Report,Entire Basin,Deep Aquifer,-29.0
+,68.0,2022,NILES CONE,2-009.01,Single Annual Report,Entire Basin,Fremont Aquifer,-2.0
+,68.0,2022,NILES CONE,2-009.01,Single Annual Report,Entire Basin,Newark Aquifer,-1713.0
+,69.0,2022,TAHOE SOUTH,6-005.01,Single Annual Report,Entire Basin,TVS SUBBASIN,-952.0
